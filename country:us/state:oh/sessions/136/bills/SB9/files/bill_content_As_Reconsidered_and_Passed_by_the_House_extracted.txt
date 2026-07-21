@@ -1,0 +1,1351 @@
+Title: 
+Official Title: 
+Source: versions - As Reconsidered and Passed by the House
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+As Reconsidered and Passed by the House
+136th General Assembly
+Regular Session Sub. S. B. No. 9
+2025-2026
+Senator Blessing
+Cosponsors: Senators Roegner, Schaffer, Antonio, Cirino, Craig, Cutrona,
+DeMora, Hicks-Hudson, Ingram, Lang, Patton, Reineke, Smith, Timken, Weinstein,
+Wilson
+Representatives Thomas, D., Abrams, Claggett, Click, Craig, Creech, Daniels,
+Dovilla, Fischer, Ghanbari, Gross, Hall, T., Hiner, Hoops, John, Johnson, Kishman,
+Mathews, A., Newman, Peterson, Plummer, Richardson, Robb Blasdel, Roemer,
+Salvo, Santucci, Schmidt, Williams
+To amend sections 5701.11 and 5747.01 of the 1
+Revised Code to expressly incorporate changes in 2
+the Internal Revenue Code since March 7, 2025, 3
+into Ohio law and to declare an emergency. 4
+BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO:
+Section 1. That sections 5701.11 and 5747.01 of the 5
+Revised Code be amended to read as follows: 6
+Sec. 5701.11. The effective date to which this section 7
+refers is the effective date of this section as amended by H.B. 8
+14 S.B. 9 of the 136th general assembly. 9
+(A)(1) Except as provided under division (A)(2) or (B) of 10
+this section, any reference in Title LVII or section 149.311, 11
+3123.90, 3770.07, 3770.071, 3770.072, 3770.073, 3772.37, or 12
+3775.16 of the Revised Code to the Internal Revenue Code, to the 13
+Internal Revenue Code "as amended," to other laws of the United 14
+States, or to other laws of the United States, "as amended," 15
+
+Sub. S. B. No. 9 Page 2
+As Reconsidered and Passed by the House
+means the Internal Revenue Code or other laws of the United 16
+States as they exist on the effective date. 17
+(2) This section does not apply to any reference in Title 18
+LVII of the Revised Code to the Internal Revenue Code as of a 19
+date certain specifying the day, month, and year, or to other 20
+laws of the United States as of a date certain specifying the 21
+day, month, and year. 22
+(B)(1) For purposes of applying section 5733.04, 5745.01, 23
+or 5747.01 of the Revised Code to a taxpayer's taxable year 24
+ending after March 15, 20237, 2025, and before the effective 25
+date, a taxpayer may irrevocably elect to incorporate the 26
+provisions of the Internal Revenue Code or other laws of the 27
+United States that are in effect for federal income tax purposes 28
+for that taxable year if those provisions differ from the 29
+provisions that, under division (A) of this section, would 30
+otherwise apply. The filing by the taxpayer for that taxable 31
+year of a report or return that incorporates the provisions of 32
+the Internal Revenue Code or other laws of the United States 33
+applicable for federal income tax purposes for that taxable 34
+year, and that does not include any adjustments to reverse the 35
+effects of any differences between those provisions and the 36
+provisions that would otherwise apply, constitutes the making of 37
+an irrevocable election under this division for that taxable 38
+year. 39
+(2) Elections under prior versions of division (B)(1) of 40
+this section remain in effect for the taxable years to which 41
+they apply. 42
+Sec. 5747.01. Except as otherwise expressly provided or 43
+clearly appearing from the context, any term used in this 44
+chapter that is not otherwise defined in this section has the 45
+
+Sub. S. B. No. 9 Page 3
+As Reconsidered and Passed by the House
+same meaning as when used in a comparable context in the laws of 46
+the United States relating to federal income taxes or if not 47
+used in a comparable context in those laws, has the same meaning 48
+as in section 5733.40 of the Revised Code. Any reference in this 49
+chapter to the Internal Revenue Code includes other laws of the 50
+United States relating to federal income taxes. 51
+As used in this chapter: 52
+(A) "Adjusted gross income" or "Ohio adjusted gross 53
+income" means federal adjusted gross income, as defined and used 54
+in the Internal Revenue Code, adjusted as provided in this 55
+section: 56
+(1) Add interest or dividends on obligations or securities 57
+of any state or of any political subdivision or authority of any 58
+state, other than this state and its subdivisions and 59
+authorities. 60
+(2) Add interest or dividends on obligations of any 61
+authority, commission, instrumentality, territory, or possession 62
+of the United States to the extent that the interest or 63
+dividends are exempt from federal income taxes but not from 64
+state income taxes. 65
+(3) Deduct interest or dividends on obligations of the 66
+United States and its territories and possessions or of any 67
+authority, commission, or instrumentality of the United States 68
+to the extent that the interest or dividends are included in 69
+federal adjusted gross income but exempt from state income taxes 70
+under the laws of the United States. 71
+(4) Deduct disability and survivor's benefits to the 72
+extent included in federal adjusted gross income. 73
+(5) Deduct the following, to the extent not otherwise 74
+
+Sub. S. B. No. 9 Page 4
+As Reconsidered and Passed by the House
+deducted or excluded in computing federal or Ohio adjusted gross 75
+income: 76
+(a) Benefits under Title II of the Social Security Act and 77
+tier 1 railroad retirement; 78
+(b) Railroad retirement benefits, other than tier 1 79
+railroad retirement benefits, to the extent such amounts are 80
+exempt from state taxation under federal law. 81
+(6) Deduct the amount of wages and salaries, if any, not 82
+otherwise allowable as a deduction but that would have been 83
+allowable as a deduction in computing federal adjusted gross 84
+income for the taxable year, had the work opportunity tax credit 85
+allowed and determined under sections 38, 51, and 52 of the 86
+Internal Revenue Code not been in effect. 87
+(7) Deduct any interest or interest equivalent on public 88
+obligations and purchase obligations to the extent that the 89
+interest or interest equivalent is included in federal adjusted 90
+gross income. 91
+(8) Add any loss or deduct any gain resulting from the 92
+sale, exchange, or other disposition of public obligations to 93
+the extent that the loss has been deducted or the gain has been 94
+included in computing federal adjusted gross income. 95
+(9) Deduct or add amounts, as provided under section 96
+5747.70 of the Revised Code, related to contributions made to or 97
+tuition units purchased under a qualified tuition program 98
+established pursuant to section 529 of the Internal Revenue 99
+Code. 100
+(10)(a) Deduct, to the extent not otherwise allowable as a 101
+deduction or exclusion in computing federal or Ohio adjusted 102
+gross income for the taxable year, the amount the taxpayer paid 103
+
+Sub. S. B. No. 9 Page 5
+As Reconsidered and Passed by the House
+during the taxable year for medical care insurance and qualified 104
+long-term care insurance for the taxpayer, the taxpayer's 105
+spouse, and dependents. No deduction for medical care insurance 106
+under division (A)(10)(a) of this section shall be allowed 107
+either to any taxpayer who is eligible to participate in any 108
+subsidized health plan maintained by any employer of the 109
+taxpayer or of the taxpayer's spouse, or to any taxpayer who is 110
+entitled to, or on application would be entitled to, benefits 111
+under part A of Title XVIII of the "Social Security Act," 49 112
+Stat. 620 (1935), 42 U.S.C. 301, as amended. For the purposes of 113
+division (A)(10)(a) of this section, "subsidized health plan" 114
+means a health plan for which the employer pays any portion of 115
+the plan's cost. The deduction allowed under division (A)(10)(a) 116
+of this section shall be the net of any related premium refunds, 117
+related premium reimbursements, or related insurance premium 118
+dividends received during the taxable year. 119
+(b) Deduct, to the extent not otherwise deducted or 120
+excluded in computing federal or Ohio adjusted gross income 121
+during the taxable year, the amount the taxpayer paid during the 122
+taxable year, not compensated for by any insurance or otherwise, 123
+for medical care of the taxpayer, the taxpayer's spouse, and 124
+dependents, to the extent the expenses exceed seven and one-half 125
+per cent of the taxpayer's federal adjusted gross income. 126
+(c) For purposes of division (A)(10) of this section, 127
+"medical care" has the meaning given in section 213 of the 128
+Internal Revenue Code, subject to the special rules, 129
+limitations, and exclusions set forth therein, and "qualified 130
+long-term care" has the same meaning given in section 7702B(c) 131
+of the Internal Revenue Code. Solely for purposes of division 132
+(A)(10)(a) of this section, "dependent" includes a person who 133
+otherwise would be a "qualifying relative" and thus a 134
+
+Sub. S. B. No. 9 Page 6
+As Reconsidered and Passed by the House
+"dependent" under section 152 of the Internal Revenue Code but 135
+for the fact that the person fails to meet the income and 136
+support limitations under section 152(d)(1)(B) and (C) of the 137
+Internal Revenue Code. 138
+(11)(a) Deduct any amount included in federal adjusted 139
+gross income solely because the amount represents a 140
+reimbursement or refund of expenses that in any year the 141
+taxpayer had deducted as an itemized deduction pursuant to 142
+section 63 of the Internal Revenue Code and applicable United 143
+States department of the treasury regulations. The deduction 144
+otherwise allowed under division (A)(11)(a) of this section 145
+shall be reduced to the extent the reimbursement is attributable 146
+to an amount the taxpayer deducted under this section in any 147
+taxable year. 148
+(b) Add any amount not otherwise included in Ohio adjusted 149
+gross income for any taxable year to the extent that the amount 150
+is attributable to the recovery during the taxable year of any 151
+amount deducted or excluded in computing federal or Ohio 152
+adjusted gross income in any taxable year. 153
+(12) Deduct any portion of the deduction described in 154
+section 1341(a)(2) of the Internal Revenue Code, for repaying 155
+previously reported income received under a claim of right, that 156
+meets both of the following requirements: 157
+(a) It is allowable for repayment of an item that was 158
+included in the taxpayer's adjusted gross income for a prior 159
+taxable year and did not qualify for a credit under division (A) 160
+or (B) of section 5747.05 of the Revised Code for that year; 161
+(b) It does not otherwise reduce the taxpayer's adjusted 162
+gross income for the current or any other taxable year. 163
+
+Sub. S. B. No. 9 Page 7
+As Reconsidered and Passed by the House
+(13) Deduct an amount equal to the deposits made to, and 164
+net investment earnings of, a medical savings account during the 165
+taxable year, in accordance with section 3924.66 of the Revised 166
+Code. The deduction allowed by division (A)(13) of this section 167
+does not apply to medical savings account deposits and earnings 168
+otherwise deducted or excluded for the current or any other 169
+taxable year from the taxpayer's federal adjusted gross income. 170
+(14)(a) Add an amount equal to the funds withdrawn from a 171
+medical savings account during the taxable year, and the net 172
+investment earnings on those funds, when the funds withdrawn 173
+were used for any purpose other than to reimburse an account 174
+holder for, or to pay, eligible medical expenses, in accordance 175
+with section 3924.66 of the Revised Code; 176
+(b) Add the amounts distributed from a medical savings 177
+account under division (A)(2) of section 3924.68 of the Revised 178
+Code during the taxable year. 179
+(15) Add any amount claimed as a credit under section 180
+5747.059 of the Revised Code to the extent that such amount 181
+satisfies either of the following: 182
+(a) The amount was deducted or excluded from the 183
+computation of the taxpayer's federal adjusted gross income as 184
+required to be reported for the taxpayer's taxable year under 185
+the Internal Revenue Code; 186
+(b) The amount resulted in a reduction of the taxpayer's 187
+federal adjusted gross income as required to be reported for any 188
+of the taxpayer's taxable years under the Internal Revenue Code. 189
+(16) Deduct the amount contributed by the taxpayer to an 190
+individual development account program established by a county 191
+department of job and family services pursuant to sections 192
+
+Sub. S. B. No. 9 Page 8
+As Reconsidered and Passed by the House
+329.11 to 329.14 of the Revised Code for the purpose of matching 193
+funds deposited by program participants. On request of the tax 194
+commissioner, the taxpayer shall provide any information that, 195
+in the tax commissioner's opinion, is necessary to establish the 196
+amount deducted under division (A)(16) of this section. 197
+(17)(a)(i) Subject to divisions (A)(17)(a)(iii), (iv), and 198
+(v) of this section, add five-sixths of the amount of 199
+depreciation expense allowed by subsection (k) of section 168 of 200
+the Internal Revenue Code, including the taxpayer's 201
+proportionate or distributive share of the amount of 202
+depreciation expense allowed by that subsection to a pass- 203
+through entity in which the taxpayer has a direct or indirect 204
+ownership interest. 205
+(ii) Subject to divisions (A)(17)(a)(iii), (iv), and (v) 206
+of this section, add five-sixths of the amount of qualifying 207
+section 179 depreciation expense, including the taxpayer's 208
+proportionate or distributive share of the amount of qualifying 209
+section 179 depreciation expense allowed to any pass-through 210
+entity in which the taxpayer has a direct or indirect ownership 211
+interest. 212
+(iii) Subject to division (A)(17)(a)(v) of this section, 213
+for taxable years beginning in 2012 or thereafter, if the 214
+increase in income taxes withheld by the taxpayer is equal to or 215
+greater than ten per cent of income taxes withheld by the 216
+taxpayer during the taxpayer's immediately preceding taxable 217
+year, "two-thirds" shall be substituted for "five-sixths" for 218
+the purpose of divisions (A)(17)(a)(i) and (ii) of this section. 219
+(iv) Subject to division (A)(17)(a)(v) of this section, 220
+for taxable years beginning in 2012 or thereafter, a taxpayer is 221
+not required to add an amount under division (A)(17) of this 222
+
+Sub. S. B. No. 9 Page 9
+As Reconsidered and Passed by the House
+section if the increase in income taxes withheld by the taxpayer 223
+and by any pass-through entity in which the taxpayer has a 224
+direct or indirect ownership interest is equal to or greater 225
+than the sum of (I) the amount of qualifying section 179 226
+depreciation expense and (II) the amount of depreciation expense 227
+allowed to the taxpayer by subsection (k) of section 168 of the 228
+Internal Revenue Code, and including the taxpayer's 229
+proportionate or distributive shares of such amounts allowed to 230
+any such pass-through entities. 231
+(v) If a taxpayer directly or indirectly incurs a net 232
+operating loss for the taxable year for federal income tax 233
+purposes, to the extent such loss resulted from depreciation 234
+expense allowed by subsection (k) of section 168 of the Internal 235
+Revenue Code and by qualifying section 179 depreciation expense, 236
+"the entire" shall be substituted for "five-sixths of the" for 237
+the purpose of divisions (A)(17)(a)(i) and (ii) of this section. 238
+The tax commissioner, under procedures established by the 239
+commissioner, may waive the add-backs related to a pass-through 240
+entity if the taxpayer owns, directly or indirectly, less than 241
+five per cent of the pass-through entity. 242
+(b) Nothing in division (A)(17) of this section shall be 243
+construed to adjust or modify the adjusted basis of any asset. 244
+(c) To the extent the add-back required under division (A) 245
+(17)(a) of this section is attributable to property generating 246
+nonbusiness income or loss allocated under section 5747.20 of 247
+the Revised Code, the add-back shall be sitused to the same 248
+location as the nonbusiness income or loss generated by the 249
+property for the purpose of determining the credit under 250
+division (A) of section 5747.05 of the Revised Code. Otherwise, 251
+the add-back shall be apportioned, subject to one or more of the 252
+
+Sub. S. B. No. 9 Page 10
+As Reconsidered and Passed by the House
+four alternative methods of apportionment enumerated in section 253
+5747.21 of the Revised Code. 254
+(d) For the purposes of division (A)(17)(a)(v) of this 255
+section, net operating loss carryback and carryforward shall not 256
+include the allowance of any net operating loss deduction 257
+carryback or carryforward to the taxable year to the extent such 258
+loss resulted from depreciation allowed by section 168(k) of the 259
+Internal Revenue Code and by the qualifying section 179 260
+depreciation expense amount. 261
+(e) For the purposes of divisions (A)(17) and (18) of this 262
+section: 263
+(i) "Income taxes withheld" means the total amount 264
+withheld and remitted under sections 5747.06 and 5747.07 of the 265
+Revised Code by an employer during the employer's taxable year. 266
+(ii) "Increase in income taxes withheld" means the amount 267
+by which the amount of income taxes withheld by an employer 268
+during the employer's current taxable year exceeds the amount of 269
+income taxes withheld by that employer during the employer's 270
+immediately preceding taxable year. 271
+(iii) "Qualifying section 179 depreciation expense" means 272
+the difference between (I) the amount of depreciation expense 273
+directly or indirectly allowed to a taxpayer under section 179 274
+of the Internal Revised Code, and (II) the amount of 275
+depreciation expense directly or indirectly allowed to the 276
+taxpayer under section 179 of the Internal Revenue Code as that 277
+section existed on December 31, 2002. 278
+(18)(a) If the taxpayer was required to add an amount 279
+under division (A)(17)(a) of this section for a taxable year, 280
+deduct one of the following: 281
+
+Sub. S. B. No. 9 Page 11
+As Reconsidered and Passed by the House
+(i) One-fifth of the amount so added for each of the five 282
+succeeding taxable years if the amount so added was five-sixths 283
+of qualifying section 179 depreciation expense or depreciation 284
+expense allowed by subsection (k) of section 168 of the Internal 285
+Revenue Code; 286
+(ii) One-half of the amount so added for each of the two 287
+succeeding taxable years if the amount so added was two-thirds 288
+of such depreciation expense; 289
+(iii) One-sixth of the amount so added for each of the six 290
+succeeding taxable years if the entire amount of such 291
+depreciation expense was so added. 292
+(b) If the amount deducted under division (A)(18)(a) of 293
+this section is attributable to an add-back allocated under 294
+division (A)(17)(c) of this section, the amount deducted shall 295
+be sitused to the same location. Otherwise, the deduction shall 296
+be apportioned using the apportionment factors for the taxable 297
+year in which the deduction is taken, subject to one or more of 298
+the four alternative methods of apportionment enumerated in 299
+section 5747.21 of the Revised Code. 300
+(c) No deduction is available under division (A)(18)(a) of 301
+this section with regard to any depreciation allowed by section 302
+168(k) of the Internal Revenue Code and by the qualifying 303
+section 179 depreciation expense amount to the extent that such 304
+depreciation results in or increases a federal net operating 305
+loss carryback or carryforward. If no such deduction is 306
+available for a taxable year, the taxpayer may carry forward the 307
+amount not deducted in such taxable year to the next taxable 308
+year and add that amount to any deduction otherwise available 309
+under division (A)(18)(a) of this section for that next taxable 310
+year. The carryforward of amounts not so deducted shall continue 311
+
+Sub. S. B. No. 9 Page 12
+As Reconsidered and Passed by the House
+until the entire addition required by division (A)(17)(a) of 312
+this section has been deducted. 313
+(19) Deduct, to the extent not otherwise deducted or 314
+excluded in computing federal or Ohio adjusted gross income for 315
+the taxable year, the amount the taxpayer received during the 316
+taxable year as reimbursement for life insurance premiums under 317
+section 5919.31 of the Revised Code. 318
+(20) Deduct, to the extent not otherwise deducted or 319
+excluded in computing federal or Ohio adjusted gross income for 320
+the taxable year, the amount the taxpayer received during the 321
+taxable year as a death benefit paid by the adjutant general 322
+under section 5919.33 of the Revised Code. 323
+(21) Deduct, to the extent included in federal adjusted 324
+gross income and not otherwise allowable as a deduction or 325
+exclusion in computing federal or Ohio adjusted gross income for 326
+the taxable year, military pay and allowances received by the 327
+taxpayer during the taxable year for active duty service in the 328
+armed forces of the United States, as defined in section 5907.01 329
+of the Revised Code, or reserve components thereof or the 330
+national guard. The deduction may not be claimed for military 331
+pay and allowances received by the taxpayer while the taxpayer 332
+is stationed in this state. 333
+(22) Deduct, to the extent not otherwise allowable as a 334
+deduction or exclusion in computing federal or Ohio adjusted 335
+gross income for the taxable year and not otherwise compensated 336
+for by any other source, the amount of qualified organ donation 337
+expenses incurred by the taxpayer during the taxable year, not 338
+to exceed ten thousand dollars. A taxpayer may deduct qualified 339
+organ donation expenses only once for all taxable years 340
+beginning with taxable years beginning in 2007. 341
+
+Sub. S. B. No. 9 Page 13
+As Reconsidered and Passed by the House
+For the purposes of division (A)(22) of this section: 342
+(a) "Human organ" means all or any portion of a human 343
+liver, pancreas, kidney, intestine, or lung, and any portion of 344
+human bone marrow. 345
+(b) "Qualified organ donation expenses" means travel 346
+expenses, lodging expenses, and wages and salary forgone by a 347
+taxpayer in connection with the taxpayer's donation, while 348
+living, of one or more of the taxpayer's human organs to another 349
+human being. 350
+(23) Deduct, to the extent not otherwise deducted or 351
+excluded in computing federal or Ohio adjusted gross income for 352
+the taxable year, amounts received by the taxpayer as retired 353
+personnel pay for service in the uniformed services or reserve 354
+components thereof, or the national guard, or received by the 355
+surviving spouse or former spouse of such a taxpayer under the 356
+survivor benefit plan on account of such a taxpayer's death. If 357
+the taxpayer receives income on account of retirement paid under 358
+the federal civil service retirement system or federal employees 359
+retirement system, or under any successor retirement program 360
+enacted by the congress of the United States that is established 361
+and maintained for retired employees of the United States 362
+government, and such retirement income is based, in whole or in 363
+part, on credit for the taxpayer's uniformed service, the 364
+deduction allowed under this division shall include only that 365
+portion of such retirement income that is attributable to the 366
+taxpayer's uniformed service, to the extent that portion of such 367
+retirement income is otherwise included in federal adjusted 368
+gross income and is not otherwise deducted under this section. 369
+Any amount deducted under division (A)(23) of this section is 370
+not included in a taxpayer's adjusted gross income for the 371
+
+Sub. S. B. No. 9 Page 14
+As Reconsidered and Passed by the House
+purposes of section 5747.055 of the Revised Code. No amount may 372
+be deducted under division (A)(23) of this section on the basis 373
+of which a credit was claimed under section 5747.055 of the 374
+Revised Code. 375
+(24) Deduct, to the extent not otherwise deducted or 376
+excluded in computing federal or Ohio adjusted gross income for 377
+the taxable year, the amount the taxpayer received during the 378
+taxable year from the military injury relief fund created in 379
+section 5902.05 of the Revised Code. 380
+(25) Deduct, to the extent not otherwise deducted or 381
+excluded in computing federal or Ohio adjusted gross income for 382
+the taxable year, the amount the taxpayer received as a veterans 383
+bonus during the taxable year from the Ohio department of 384
+veterans services as authorized by Section 2r of Article VIII, 385
+Ohio Constitution. 386
+(26) Deduct, to the extent not otherwise deducted or 387
+excluded in computing federal or Ohio adjusted gross income for 388
+the taxable year, any income derived from a transfer agreement 389
+or from the enterprise transferred under that agreement under 390
+section 4313.02 of the Revised Code. 391
+(27) Deduct, to the extent not otherwise deducted or 392
+excluded in computing federal or Ohio adjusted gross income for 393
+the taxable year, Ohio college opportunity or federal Pell grant 394
+amounts received by the taxpayer or the taxpayer's spouse or 395
+dependent pursuant to section 3333.122 of the Revised Code or 20 396
+U.S.C. 1070a, et seq., and used to pay room or board furnished 397
+by the educational institution for which the grant was awarded 398
+at the institution's facilities, including meal plans 399
+administered by the institution. For the purposes of this 400
+division, receipt of a grant includes the distribution of a 401
+
+Sub. S. B. No. 9 Page 15
+As Reconsidered and Passed by the House
+grant directly to an educational institution and the crediting 402
+of the grant to the enrollee's account with the institution. 403
+(28) Deduct from the portion of an individual's federal 404
+adjusted gross income that is business income, to the extent not 405
+otherwise deducted or excluded in computing federal adjusted 406
+gross income for the taxable year, one hundred twenty-five 407
+thousand dollars for each spouse if spouses file separate 408
+returns under section 5747.08 of the Revised Code or two hundred 409
+fifty thousand dollars for all other individuals. 410
+(29) Deduct, as provided under section 5747.78 of the 411
+Revised Code, contributions to ABLE savings accounts made in 412
+accordance with sections 113.50 to 113.56 of the Revised Code. 413
+(30)(a) Deduct, to the extent not otherwise deducted or 414
+excluded in computing federal or Ohio adjusted gross income 415
+during the taxable year, all of the following: 416
+(i) Compensation paid to a qualifying employee described 417
+in division (A)(14)(a) of section 5703.94 of the Revised Code to 418
+the extent such compensation is for disaster work conducted in 419
+this state during a disaster response period pursuant to a 420
+qualifying solicitation received by the employee's employer; 421
+(ii) Compensation paid to a qualifying employee described 422
+in division (A)(14)(b) of section 5703.94 of the Revised Code to 423
+the extent such compensation is for disaster work conducted in 424
+this state by the employee during the disaster response period 425
+on critical infrastructure owned or used by the employee's 426
+employer; 427
+(iii) Income received by an out-of-state disaster business 428
+for disaster work conducted in this state during a disaster 429
+response period, or, if the out-of-state disaster business is a 430
+
+Sub. S. B. No. 9 Page 16
+As Reconsidered and Passed by the House
+pass-through entity, a taxpayer's distributive share of the 431
+pass-through entity's income from the business conducting 432
+disaster work in this state during a disaster response period, 433
+if, in either case, the disaster work is conducted pursuant to a 434
+qualifying solicitation received by the business. 435
+(b) All terms used in division (A)(30) of this section 436
+have the same meanings as in section 5703.94 of the Revised 437
+Code. 438
+(31) For a taxpayer who is a qualifying Ohio educator, 439
+deduct, to the extent not otherwise deducted or excluded in 440
+computing federal or Ohio adjusted gross income for the taxable 441
+year, the lesser of three hundred dollars or the amount of 442
+expenses described in subsections (a)(2)(D)(i) and (ii) of 443
+section 62 of the Internal Revenue Code paid or incurred by the 444
+taxpayer during the taxpayer's taxable year in excess of the 445
+amount the taxpayer is authorized to deduct for that taxable 446
+year under subsection (a)(2)(D) of that section. 447
+(32) Deduct, to the extent not otherwise deducted or 448
+excluded in computing federal or Ohio adjusted gross income for 449
+the taxable year, amounts received by the taxpayer as a 450
+disability severance payment, computed under 10 U.S.C. 1212, 451
+following discharge or release under honorable conditions from 452
+the armed forces of the United States, as defined in section 453
+5907.01 of the Revised Code. 454
+(33) Deduct, to the extent not otherwise deducted or 455
+excluded in computing federal adjusted gross income or Ohio 456
+adjusted gross income, amounts not subject to tax due to an 457
+agreement entered into under division (A)(2) of section 5747.05 458
+of the Revised Code. 459
+
+Sub. S. B. No. 9 Page 17
+As Reconsidered and Passed by the House
+(34) Deduct amounts as provided under section 5747.79 of 460
+the Revised Code related to the taxpayer's qualifying capital 461
+gains and deductible payroll. 462
+To the extent a qualifying capital gain described under 463
+division (A)(34) of this section is business income, the 464
+taxpayer shall deduct those gains under this division before 465
+deducting any such gains under division (A)(28) of this section. 466
+(35)(a) For taxable years beginning in or after 2026, 467
+deduct, to the extent not otherwise deducted or excluded in 468
+computing federal or Ohio adjusted gross income for the taxable 469
+year: 470
+(i) One hundred per cent of the capital gain received by 471
+the taxpayer in the taxable year from a qualifying interest in 472
+an Ohio venture capital operating company attributable to the 473
+company's investments in Ohio businesses during the period for 474
+which the company was an Ohio venture operating company; and 475
+(ii) Fifty per cent of the capital gain received by the 476
+taxpayer in the taxable year from a qualifying interest in an 477
+Ohio venture capital operating company attributable to the 478
+company's investments in all other businesses during the period 479
+for which the company was an Ohio venture operating company. 480
+(b) Add amounts previously deducted by the taxpayer under 481
+division (A)(35)(a) of this section if the director of 482
+development certifies to the tax commissioner that the 483
+requirements for the deduction were not met. 484
+(c) All terms used in division (A)(35) of this section 485
+have the same meanings as in section 122.851 of the Revised 486
+Code. 487
+(d) To the extent a capital gain described in division (A) 488
+
+Sub. S. B. No. 9 Page 18
+As Reconsidered and Passed by the House
+(35)(a) of this section is business income, the taxpayer shall 489
+apply that division before applying division (A)(28) of this 490
+section. 491
+(36) Add, to the extent not otherwise included in 492
+computing federal or Ohio adjusted gross income for any taxable 493
+year, the taxpayer's proportionate share of the amount of the 494
+tax levied under section 5747.38 of the Revised Code and paid by 495
+an electing pass-through entity for the taxable year. 496
+Notwithstanding any provision of the Revised Code to the 497
+contrary, the portion of the addition required by division (A) 498
+(36) of this section related to the apportioned business income 499
+of the pass-through entity shall be considered business income 500
+under division (B) of this section. Such addition is eligible 501
+for the deduction in division (A)(28) of this section, subject 502
+to the applicable dollar limitations, and the tax rate 503
+prescribed by division (A)(4)(a) of section 5747.02 of the 504
+Revised Code. The taxpayer shall provide, upon request of the 505
+tax commissioner, any documentation necessary to verify the 506
+portion of the addition that is business income under this 507
+division. 508
+(37) Deduct, to the extent not otherwise deducted or 509
+excluded in computing federal or Ohio adjusted gross income for 510
+the taxable year, amounts delivered to a qualifying institution 511
+pursuant to section 3333.128 of the Revised Code for the benefit 512
+of the taxpayer or the taxpayer's spouse or dependent. 513
+(38) Deduct, to the extent not otherwise deducted or 514
+excluded in computing federal or Ohio adjusted gross income for 515
+the taxable year, amounts received under the Ohio adoption grant 516
+program pursuant to section 5180.451 of the Revised Code. 517
+
+Sub. S. B. No. 9 Page 19
+As Reconsidered and Passed by the House
+(39) Deduct, to the extent included in federal adjusted 518
+gross income, income attributable to amounts provided to a 519
+taxpayer for any of the purposes for which an exclusion would 520
+have been authorized under section 139 of the Internal Revenue 521
+Code if the train derailment near the city of East Palestine on 522
+February 3, 2023, had been a qualified disaster pursuant to that 523
+section, or to compensate for lost business resulting from that 524
+derailment, if such amounts are provided by any of the 525
+following: 526
+(a) A federal, state, or local government agency; 527
+(b) A railroad company, as that term is defined in section 528
+5727.01 of the Revised Code; 529
+(c) Any subsidiary, insurer, or agent of a railroad 530
+company or any related person. 531
+Notwithstanding any provision to the contrary, the 532
+derailment is not required to meet the definition of a 533
+"qualified disaster" pursuant to section 139 of the Internal 534
+Revenue Code to qualify for the deduction under this section. 535
+(40) Deduct, to the extent included in federal adjusted 536
+gross income, income attributable to loan repayments on behalf 537
+of the taxpayer under the rural practice incentive program under 538
+section 3333.135 of the Revised Code. 539
+(41) Add any income taxes deducted in computing federal or 540
+Ohio adjusted gross income to the extent the income taxes were 541
+derived from income subject to a tax levied in another state or 542
+the District of Columbia when such tax was enacted for purposes 543
+of complying with internal revenue service notice 2020-75. 544
+Notwithstanding any provision of the Revised Code to the 545
+contrary, the portion of the addition required by division (A) 546
+
+Sub. S. B. No. 9 Page 20
+As Reconsidered and Passed by the House
+(41) of this section related to the apportioned business income 547
+of the pass-through entity shall be considered business income 548
+under division (B) of this section. Such addition is eligible 549
+for the deduction in division (A)(28) of this section, subject 550
+to the applicable dollar limitations, and the tax rate 551
+prescribed by division (A)(4)(a) of section 5747.02 of the 552
+Revised Code. The taxpayer shall provide, upon request of the 553
+tax commissioner, any documentation necessary to verify the 554
+portion of the addition that is business income under this 555
+division. 556
+(42) Deduct amounts contributed to a homeownership savings 557
+account and calculated pursuant to divisions (B) and (C) of 558
+section 5747.85 of the Revised Code. 559
+(43) If the taxpayer is the account owner of a 560
+homeownership savings account, upon withdrawal or transfer of 561
+funds from the account, or closure of the account containing 562
+funds that are not used for eligible expenses, add the amount of 563
+such funds not used for an eligible expense. The addition 564
+required under this division shall not exceed the sum of the 565
+amounts deducted by the taxpayer for such account under division 566
+(A)(42) of this section in any taxable year and the amount of 567
+any funds deposited in the account by a contributor other than 568
+the account owner. As used in division (A)(43) of this section, 569
+"homeownership savings account," "contributor," "account owner," 570
+and "eligible expenses" have the same meanings as in section 571
+5747.85 of the Revised Code. 572
+(44) Deduct, to the extent not otherwise deducted or 573
+excluded in computing federal or Ohio adjusted gross income 574
+during the taxable year, up to seven hundred fifty dollars of 575
+contributions the taxpayer makes to a pregnancy resource center 576
+
+Sub. S. B. No. 9 Page 21
+As Reconsidered and Passed by the House
+that meets the criteria in division (B) of section 5180.71 of 577
+the Revised Code. 578
+(B) "Business income" means income, including gain or 579
+loss, arising from transactions, activities, and sources in the 580
+regular course of a trade or business and includes income, gain, 581
+or loss from real property, tangible property, and intangible 582
+property if the acquisition, rental, management, and disposition 583
+of the property constitute integral parts of the regular course 584
+of a trade or business operation. "Business income" includes 585
+income, including gain or loss, from a partial or complete 586
+liquidation of a business, including, but not limited to, gain 587
+or loss from the sale or other disposition of goodwill or the 588
+sale of an equity or ownership interest in a business. 589
+As used in this division, the "sale of an equity or 590
+ownership interest in a business" means sales to which either or 591
+both of the following apply: 592
+(1) The sale is treated for federal income tax purposes as 593
+the sale of assets. 594
+(2) The seller materially participated, as described in 26 595
+C.F.R. 1.469-5T, in the activities of the business during the 596
+taxable year in which the sale occurs or during any of the five 597
+preceding taxable years. 598
+(C) "Nonbusiness income" means all income other than 599
+business income and may include, but is not limited to, 600
+compensation, rents and royalties from real or tangible personal 601
+property, capital gains, interest, dividends and distributions, 602
+patent or copyright royalties, or lottery winnings, prizes, and 603
+awards. 604
+(D) "Compensation" means any form of remuneration paid to 605
+
+Sub. S. B. No. 9 Page 22
+As Reconsidered and Passed by the House
+an employee for personal services. 606
+(E) "Fiduciary" means a guardian, trustee, executor, 607
+administrator, receiver, conservator, or any other person acting 608
+in any fiduciary capacity for any individual, trust, or estate. 609
+(F) "Fiscal year" means an accounting period of twelve 610
+months ending on the last day of any month other than December. 611
+(G) "Individual" means any natural person. 612
+(H) "Internal Revenue Code" means the "Internal Revenue 613
+Code of 1986," 100 Stat. 2085, 26 U.S.C.A. 1, as amended. 614
+(I) "Resident" means any of the following: 615
+(1) An individual who is domiciled in this state, subject 616
+to section 5747.24 of the Revised Code; 617
+(2) The estate of a decedent who at the time of death was 618
+domiciled in this state. The domicile tests of section 5747.24 619
+of the Revised Code are not controlling for purposes of division 620
+(I)(2) of this section. 621
+(3) A trust that, in whole or part, resides in this state. 622
+If only part of a trust resides in this state, the trust is a 623
+resident only with respect to that part. 624
+For the purposes of division (I)(3) of this section: 625
+(a) A trust resides in this state for the trust's current 626
+taxable year to the extent, as described in division (I)(3)(d) 627
+of this section, that the trust consists directly or indirectly, 628
+in whole or in part, of assets, net of any related liabilities, 629
+that were transferred, or caused to be transferred, directly or 630
+indirectly, to the trust by any of the following: 631
+(i) A person, a court, or a governmental entity or 632
+
+Sub. S. B. No. 9 Page 23
+As Reconsidered and Passed by the House
+instrumentality on account of the death of a decedent, but only 633
+if the trust is described in division (I)(3)(e)(i) or (ii) of 634
+this section; 635
+(ii) A person who was domiciled in this state for the 636
+purposes of this chapter when the person directly or indirectly 637
+transferred assets to an irrevocable trust, but only if at least 638
+one of the trust's qualifying beneficiaries is domiciled in this 639
+state for the purposes of this chapter during all or some 640
+portion of the trust's current taxable year; 641
+(iii) A person who was domiciled in this state for the 642
+purposes of this chapter when the trust document or instrument 643
+or part of the trust document or instrument became irrevocable, 644
+but only if at least one of the trust's qualifying beneficiaries 645
+is a resident domiciled in this state for the purposes of this 646
+chapter during all or some portion of the trust's current 647
+taxable year. If a trust document or instrument became 648
+irrevocable upon the death of a person who at the time of death 649
+was domiciled in this state for purposes of this chapter, that 650
+person is a person described in division (I)(3)(a)(iii) of this 651
+section. 652
+(b) A trust is irrevocable to the extent that the 653
+transferor is not considered to be the owner of the net assets 654
+of the trust under sections 671 to 678 of the Internal Revenue 655
+Code. 656
+(c) With respect to a trust other than a charitable lead 657
+trust, "qualifying beneficiary" has the same meaning as 658
+"potential current beneficiary" as defined in section 1361(e)(2) 659
+of the Internal Revenue Code, and with respect to a charitable 660
+lead trust "qualifying beneficiary" is any current, future, or 661
+contingent beneficiary, but with respect to any trust 662
+
+Sub. S. B. No. 9 Page 24
+As Reconsidered and Passed by the House
+"qualifying beneficiary" excludes a person or a governmental 663
+entity or instrumentality to any of which a contribution would 664
+qualify for the charitable deduction under section 170 of the 665
+Internal Revenue Code. 666
+(d) For the purposes of division (I)(3)(a) of this 667
+section, the extent to which a trust consists directly or 668
+indirectly, in whole or in part, of assets, net of any related 669
+liabilities, that were transferred directly or indirectly, in 670
+whole or part, to the trust by any of the sources enumerated in 671
+that division shall be ascertained by multiplying the fair 672
+market value of the trust's assets, net of related liabilities, 673
+by the qualifying ratio, which shall be computed as follows: 674
+(i) The first time the trust receives assets, the 675
+numerator of the qualifying ratio is the fair market value of 676
+those assets at that time, net of any related liabilities, from 677
+sources enumerated in division (I)(3)(a) of this section. The 678
+denominator of the qualifying ratio is the fair market value of 679
+all the trust's assets at that time, net of any related 680
+liabilities. 681
+(ii) Each subsequent time the trust receives assets, a 682
+revised qualifying ratio shall be computed. The numerator of the 683
+revised qualifying ratio is the sum of (1) the fair market value 684
+of the trust's assets immediately prior to the subsequent 685
+transfer, net of any related liabilities, multiplied by the 686
+qualifying ratio last computed without regard to the subsequent 687
+transfer, and (2) the fair market value of the subsequently 688
+transferred assets at the time transferred, net of any related 689
+liabilities, from sources enumerated in division (I)(3)(a) of 690
+this section. The denominator of the revised qualifying ratio is 691
+the fair market value of all the trust's assets immediately 692
+
+Sub. S. B. No. 9 Page 25
+As Reconsidered and Passed by the House
+after the subsequent transfer, net of any related liabilities. 693
+(iii) Whether a transfer to the trust is by or from any of 694
+the sources enumerated in division (I)(3)(a) of this section 695
+shall be ascertained without regard to the domicile of the 696
+trust's beneficiaries. 697
+(e) For the purposes of division (I)(3)(a)(i) of this 698
+section: 699
+(i) A trust is described in division (I)(3)(e)(i) of this 700
+section if the trust is a testamentary trust and the testator of 701
+that testamentary trust was domiciled in this state at the time 702
+of the testator's death for purposes of the taxes levied under 703
+Chapter 5731. of the Revised Code. 704
+(ii) A trust is described in division (I)(3)(e)(ii) of 705
+this section if the transfer is a qualifying transfer described 706
+in any of divisions (I)(3)(f)(i) to (vi) of this section, the 707
+trust is an irrevocable inter vivos trust, and at least one of 708
+the trust's qualifying beneficiaries is domiciled in this state 709
+for purposes of this chapter during all or some portion of the 710
+trust's current taxable year. 711
+(f) For the purposes of division (I)(3)(e)(ii) of this 712
+section, a "qualifying transfer" is a transfer of assets, net of 713
+any related liabilities, directly or indirectly to a trust, if 714
+the transfer is described in any of the following: 715
+(i) The transfer is made to a trust, created by the 716
+decedent before the decedent's death and while the decedent was 717
+domiciled in this state for the purposes of this chapter, and, 718
+prior to the death of the decedent, the trust became irrevocable 719
+while the decedent was domiciled in this state for the purposes 720
+of this chapter. 721
+
+Sub. S. B. No. 9 Page 26
+As Reconsidered and Passed by the House
+(ii) The transfer is made to a trust to which the 722
+decedent, prior to the decedent's death, had directly or 723
+indirectly transferred assets, net of any related liabilities, 724
+while the decedent was domiciled in this state for the purposes 725
+of this chapter, and prior to the death of the decedent the 726
+trust became irrevocable while the decedent was domiciled in 727
+this state for the purposes of this chapter. 728
+(iii) The transfer is made on account of a contractual 729
+relationship existing directly or indirectly between the 730
+transferor and either the decedent or the estate of the decedent 731
+at any time prior to the date of the decedent's death, and the 732
+decedent was domiciled in this state at the time of death for 733
+purposes of the taxes levied under Chapter 5731. of the Revised 734
+Code. 735
+(iv) The transfer is made to a trust on account of a 736
+contractual relationship existing directly or indirectly between 737
+the transferor and another person who at the time of the 738
+decedent's death was domiciled in this state for purposes of 739
+this chapter. 740
+(v) The transfer is made to a trust on account of the will 741
+of a testator who was domiciled in this state at the time of the 742
+testator's death for purposes of the taxes levied under Chapter 743
+5731. of the Revised Code. 744
+(vi) The transfer is made to a trust created by or caused 745
+to be created by a court, and the trust was directly or 746
+indirectly created in connection with or as a result of the 747
+death of an individual who, for purposes of the taxes levied 748
+under Chapter 5731. of the Revised Code, was domiciled in this 749
+state at the time of the individual's death. 750
+
+Sub. S. B. No. 9 Page 27
+As Reconsidered and Passed by the House
+(g) The tax commissioner may adopt rules to ascertain the 751
+part of a trust residing in this state. 752
+(J) "Nonresident" means an individual or estate that is 753
+not a resident. An individual who is a resident for only part of 754
+a taxable year is a nonresident for the remainder of that 755
+taxable year. 756
+(K) "Pass-through entity" has the same meaning as in 757
+section 5733.04 of the Revised Code. 758
+(L) "Return" means the notifications and reports required 759
+to be filed pursuant to this chapter for the purpose of 760
+reporting the tax due and includes declarations of estimated tax 761
+when so required. 762
+(M) "Taxable year" means the calendar year or the 763
+taxpayer's fiscal year ending during the calendar year, or 764
+fractional part thereof, upon which the adjusted gross income is 765
+calculated pursuant to this chapter. 766
+(N) "Taxpayer" means any person subject to the tax imposed 767
+by section 5747.02 of the Revised Code or any pass-through 768
+entity that makes the election under division (D) of section 769
+5747.08 of the Revised Code. 770
+(O) "Dependents" means one of the following: 771
+(1) For taxable years beginning on or after January 1, 772
+2018, and before January 1, 2026, dependents as defined in the 773
+Internal Revenue Code; 774
+(2) For all other taxable years, dependents as defined in 775
+the Internal Revenue Code and as claimed in the taxpayer's 776
+federal income tax return for the taxable year or which the 777
+taxpayer would have been permitted to claim had the taxpayer 778
+
+Sub. S. B. No. 9 Page 28
+As Reconsidered and Passed by the House
+filed a federal income tax return. 779
+(P) "Principal county of employment" means, in the case of 780
+a nonresident, the county within the state in which a taxpayer 781
+performs services for an employer or, if those services are 782
+performed in more than one county, the county in which the major 783
+portion of the services are performed. 784
+(Q) As used in sections 5747.50 to 5747.55 of the Revised 785
+Code: 786
+(1) "Subdivision" means any county, municipal corporation, 787
+park district, or township. 788
+(2) "Essential local government purposes" includes all 789
+functions that any subdivision is required by general law to 790
+exercise, including like functions that are exercised under a 791
+charter adopted pursuant to the Ohio Constitution. 792
+(R) "Overpayment" means any amount already paid that 793
+exceeds the figure determined to be the correct amount of the 794
+tax. 795
+(S) "Taxable income" or "Ohio taxable income" applies only 796
+to estates and trusts, and means federal taxable income, as 797
+defined and used in the Internal Revenue Code, adjusted as 798
+follows: 799
+(1) Add interest or dividends, net of ordinary, necessary, 800
+and reasonable expenses not deducted in computing federal 801
+taxable income, on obligations or securities of any state or of 802
+any political subdivision or authority of any state, other than 803
+this state and its subdivisions and authorities, but only to the 804
+extent that such net amount is not otherwise includible in Ohio 805
+taxable income and is described in either division (S)(1)(a) or 806
+(b) of this section: 807
+
+Sub. S. B. No. 9 Page 29
+As Reconsidered and Passed by the House
+(a) The net amount is not attributable to the S portion of 808
+an electing small business trust and has not been distributed to 809
+beneficiaries for the taxable year; 810
+(b) The net amount is attributable to the S portion of an 811
+electing small business trust for the taxable year. 812
+(2) Add interest or dividends, net of ordinary, necessary, 813
+and reasonable expenses not deducted in computing federal 814
+taxable income, on obligations of any authority, commission, 815
+instrumentality, territory, or possession of the United States 816
+to the extent that the interest or dividends are exempt from 817
+federal income taxes but not from state income taxes, but only 818
+to the extent that such net amount is not otherwise includible 819
+in Ohio taxable income and is described in either division (S) 820
+(1)(a) or (b) of this section; 821
+(3) Add the amount of personal exemption allowed to the 822
+estate pursuant to section 642(b) of the Internal Revenue Code; 823
+(4) Deduct interest or dividends, net of related expenses 824
+deducted in computing federal taxable income, on obligations of 825
+the United States and its territories and possessions or of any 826
+authority, commission, or instrumentality of the United States 827
+to the extent that the interest or dividends are exempt from 828
+state taxes under the laws of the United States, but only to the 829
+extent that such amount is included in federal taxable income 830
+and is described in either division (S)(1)(a) or (b) of this 831
+section; 832
+(5) Deduct the amount of wages and salaries, if any, not 833
+otherwise allowable as a deduction but that would have been 834
+allowable as a deduction in computing federal taxable income for 835
+the taxable year, had the work opportunity tax credit allowed 836
+
+Sub. S. B. No. 9 Page 30
+As Reconsidered and Passed by the House
+under sections 38, 51, and 52 of the Internal Revenue Code not 837
+been in effect, but only to the extent such amount relates 838
+either to income included in federal taxable income for the 839
+taxable year or to income of the S portion of an electing small 840
+business trust for the taxable year; 841
+(6) Deduct any interest or interest equivalent, net of 842
+related expenses deducted in computing federal taxable income, 843
+on public obligations and purchase obligations, but only to the 844
+extent that such net amount relates either to income included in 845
+federal taxable income for the taxable year or to income of the 846
+S portion of an electing small business trust for the taxable 847
+year; 848
+(7) Add any loss or deduct any gain resulting from sale, 849
+exchange, or other disposition of public obligations to the 850
+extent that such loss has been deducted or such gain has been 851
+included in computing either federal taxable income or income of 852
+the S portion of an electing small business trust for the 853
+taxable year; 854
+(8) Except in the case of the final return of an estate, 855
+add any amount deducted by the taxpayer on both its Ohio estate 856
+tax return pursuant to section 5731.14 of the Revised Code, and 857
+on its federal income tax return in determining federal taxable 858
+income; 859
+(9)(a) Deduct any amount included in federal taxable 860
+income solely because the amount represents a reimbursement or 861
+refund of expenses that in a previous year the decedent had 862
+deducted as an itemized deduction pursuant to section 63 of the 863
+Internal Revenue Code and applicable treasury regulations. The 864
+deduction otherwise allowed under division (S)(9)(a) of this 865
+section shall be reduced to the extent the reimbursement is 866
+
+Sub. S. B. No. 9 Page 31
+As Reconsidered and Passed by the House
+attributable to an amount the taxpayer or decedent deducted 867
+under this section in any taxable year. 868
+(b) Add any amount not otherwise included in Ohio taxable 869
+income for any taxable year to the extent that the amount is 870
+attributable to the recovery during the taxable year of any 871
+amount deducted or excluded in computing federal or Ohio taxable 872
+income in any taxable year, but only to the extent such amount 873
+has not been distributed to beneficiaries for the taxable year. 874
+(10) Deduct any portion of the deduction described in 875
+section 1341(a)(2) of the Internal Revenue Code, for repaying 876
+previously reported income received under a claim of right, that 877
+meets both of the following requirements: 878
+(a) It is allowable for repayment of an item that was 879
+included in the taxpayer's taxable income or the decedent's 880
+adjusted gross income for a prior taxable year and did not 881
+qualify for a credit under division (A) or (B) of section 882
+5747.05 of the Revised Code for that year. 883
+(b) It does not otherwise reduce the taxpayer's taxable 884
+income or the decedent's adjusted gross income for the current 885
+or any other taxable year. 886
+(11) Add any amount claimed as a credit under section 887
+5747.059 of the Revised Code to the extent that the amount 888
+satisfies either of the following: 889
+(a) The amount was deducted or excluded from the 890
+computation of the taxpayer's federal taxable income as required 891
+to be reported for the taxpayer's taxable year under the 892
+Internal Revenue Code; 893
+(b) The amount resulted in a reduction in the taxpayer's 894
+federal taxable income as required to be reported for any of the 895
+
+Sub. S. B. No. 9 Page 32
+As Reconsidered and Passed by the House
+taxpayer's taxable years under the Internal Revenue Code. 896
+(12) Deduct any amount, net of related expenses deducted 897
+in computing federal taxable income, that a trust is required to 898
+report as farm income on its federal income tax return, but only 899
+if the assets of the trust include at least ten acres of land 900
+satisfying the definition of "land devoted exclusively to 901
+agricultural use" under section 5713.30 of the Revised Code, 902
+regardless of whether the land is valued for tax purposes as 903
+such land under sections 5713.30 to 5713.38 of the Revised Code. 904
+If the trust is a pass-through entity investor, section 5747.231 905
+of the Revised Code applies in ascertaining if the trust is 906
+eligible to claim the deduction provided by division (S)(12) of 907
+this section in connection with the pass-through entity's farm 908
+income. 909
+Except for farm income attributable to the S portion of an 910
+electing small business trust, the deduction provided by 911
+division (S)(12) of this section is allowed only to the extent 912
+that the trust has not distributed such farm income. 913
+(13) Add the net amount of income described in section 914
+641(c) of the Internal Revenue Code to the extent that amount is 915
+not included in federal taxable income. 916
+(14) Add or deduct the amount the taxpayer would be 917
+required to add or deduct under division (A)(17) or (18) of this 918
+section if the taxpayer's Ohio taxable income was computed in 919
+the same manner as an individual's Ohio adjusted gross income is 920
+computed under this section. 921
+(15) Add, to the extent not otherwise included in 922
+computing taxable income or Ohio taxable income for any taxable 923
+year, the taxpayer's proportionate share of the amount of the 924
+
+Sub. S. B. No. 9 Page 33
+As Reconsidered and Passed by the House
+tax levied under section 5747.38 of the Revised Code and paid by 925
+an electing pass-through entity for the taxable year. 926
+(16) Add any income taxes deducted in computing federal 927
+taxable income or Ohio taxable income to the extent the income 928
+taxes were derived from income subject to a tax levied in 929
+another state or the District of Columbia when such tax was 930
+enacted for purposes of complying with internal revenue service 931
+notice 2020-75. 932
+(T) "School district income" and "school district income 933
+tax" have the same meanings as in section 5748.01 of the Revised 934
+Code. 935
+(U) As used in divisions (A)(7), (A)(8), (S)(6), and (S) 936
+(7) of this section, "public obligations," "purchase 937
+obligations," and "interest or interest equivalent" have the 938
+same meanings as in section 5709.76 of the Revised Code. 939
+(V) "Limited liability company" means any limited 940
+liability company formed under former Chapter 1705. of the 941
+Revised Code as that chapter existed prior to February 11, 2022, 942
+Chapter 1706. of the Revised Code, or the laws of any other 943
+state. 944
+(W) "Pass-through entity investor" means any person who, 945
+during any portion of a taxable year of a pass-through entity, 946
+is a partner, member, shareholder, or equity investor in that 947
+pass-through entity. 948
+(X) "Banking day" has the same meaning as in section 949
+1304.01 of the Revised Code. 950
+(Y) "Month" means a calendar month. 951
+(Z) "Quarter" means the first three months, the second 952
+
+Sub. S. B. No. 9 Page 34
+As Reconsidered and Passed by the House
+three months, the third three months, or the last three months 953
+of the taxpayer's taxable year. 954
+(AA)(1) "Modified business income" means the business 955
+income included in a trust's Ohio taxable income after such 956
+taxable income is first reduced by the qualifying trust amount, 957
+if any. 958
+(2) "Qualifying trust amount" of a trust means capital 959
+gains and losses from the sale, exchange, or other disposition 960
+of equity or ownership interests in, or debt obligations of, a 961
+qualifying investee to the extent included in the trust's Ohio 962
+taxable income, but only if the following requirements are 963
+satisfied: 964
+(a) The book value of the qualifying investee's physical 965
+assets in this state and everywhere, as of the last day of the 966
+qualifying investee's fiscal or calendar year ending immediately 967
+prior to the date on which the trust recognizes the gain or 968
+loss, is available to the trust. 969
+(b) The requirements of section 5747.011 of the Revised 970
+Code are satisfied for the trust's taxable year in which the 971
+trust recognizes the gain or loss. 972
+Any gain or loss that is not a qualifying trust amount is 973
+modified business income, qualifying investment income, or 974
+modified nonbusiness income, as the case may be. 975
+(3) "Modified nonbusiness income" means a trust's Ohio 976
+taxable income other than modified business income, other than 977
+the qualifying trust amount, and other than qualifying 978
+investment income, as defined in section 5747.012 of the Revised 979
+Code, to the extent such qualifying investment income is not 980
+otherwise part of modified business income. 981
+
+Sub. S. B. No. 9 Page 35
+As Reconsidered and Passed by the House
+(4) "Modified Ohio taxable income" applies only to trusts, 982
+and means the sum of the amounts described in divisions (AA)(4) 983
+(a) to (c) of this section: 984
+(a) The fraction, calculated under section 5747.013, and 985
+applying section 5747.231 of the Revised Code, multiplied by the 986
+sum of the following amounts: 987
+(i) The trust's modified business income; 988
+(ii) The trust's qualifying investment income, as defined 989
+in section 5747.012 of the Revised Code, but only to the extent 990
+the qualifying investment income does not otherwise constitute 991
+modified business income and does not otherwise constitute a 992
+qualifying trust amount. 993
+(b) The qualifying trust amount multiplied by a fraction, 994
+the numerator of which is the sum of the book value of the 995
+qualifying investee's physical assets in this state on the last 996
+day of the qualifying investee's fiscal or calendar year ending 997
+immediately prior to the day on which the trust recognizes the 998
+qualifying trust amount, and the denominator of which is the sum 999
+of the book value of the qualifying investee's total physical 1000
+assets everywhere on the last day of the qualifying investee's 1001
+fiscal or calendar year ending immediately prior to the day on 1002
+which the trust recognizes the qualifying trust amount. If, for 1003
+a taxable year, the trust recognizes a qualifying trust amount 1004
+with respect to more than one qualifying investee, the amount 1005
+described in division (AA)(4)(b) of this section shall equal the 1006
+sum of the products so computed for each such qualifying 1007
+investee. 1008
+(c)(i) With respect to a trust or portion of a trust that 1009
+is a resident as ascertained in accordance with division (I)(3) 1010
+
+Sub. S. B. No. 9 Page 36
+As Reconsidered and Passed by the House
+(d) of this section, its modified nonbusiness income. 1011
+(ii) With respect to a trust or portion of a trust that is 1012
+not a resident as ascertained in accordance with division (I)(3) 1013
+(d) of this section, the amount of its modified nonbusiness 1014
+income satisfying the descriptions in divisions (B)(2) to (5) of 1015
+section 5747.20 of the Revised Code, except as otherwise 1016
+provided in division (AA)(4)(c)(ii) of this section. With 1017
+respect to a trust or portion of a trust that is not a resident 1018
+as ascertained in accordance with division (I)(3)(d) of this 1019
+section, the trust's portion of modified nonbusiness income 1020
+recognized from the sale, exchange, or other disposition of a 1021
+debt interest in or equity interest in a section 5747.212 1022
+entity, as defined in section 5747.212 of the Revised Code, 1023
+without regard to division (A) of that section, shall not be 1024
+allocated to this state in accordance with section 5747.20 of 1025
+the Revised Code but shall be apportioned to this state in 1026
+accordance with division (B) of section 5747.212 of the Revised 1027
+Code without regard to division (A) of that section. 1028
+If the allocation and apportionment of a trust's income 1029
+under divisions (AA)(4)(a) and (c) of this section do not fairly 1030
+represent the modified Ohio taxable income of the trust in this 1031
+state, the alternative methods described in division (C) of 1032
+section 5747.21 of the Revised Code may be applied in the manner 1033
+and to the same extent provided in that section. 1034
+(5)(a) Except as set forth in division (AA)(5)(b) of this 1035
+section, "qualifying investee" means a person in which a trust 1036
+has an equity or ownership interest, or a person or unit of 1037
+government the debt obligations of either of which are owned by 1038
+a trust. For the purposes of division (AA)(2)(a) of this section 1039
+and for the purpose of computing the fraction described in 1040
+
+Sub. S. B. No. 9 Page 37
+As Reconsidered and Passed by the House
+division (AA)(4)(b) of this section, all of the following apply: 1041
+(i) If the qualifying investee is a member of a qualifying 1042
+controlled group on the last day of the qualifying investee's 1043
+fiscal or calendar year ending immediately prior to the date on 1044
+which the trust recognizes the gain or loss, then "qualifying 1045
+investee" includes all persons in the qualifying controlled 1046
+group on such last day. 1047
+(ii) If the qualifying investee, or if the qualifying 1048
+investee and any members of the qualifying controlled group of 1049
+which the qualifying investee is a member on the last day of the 1050
+qualifying investee's fiscal or calendar year ending immediately 1051
+prior to the date on which the trust recognizes the gain or 1052
+loss, separately or cumulatively own, directly or indirectly, on 1053
+the last day of the qualifying investee's fiscal or calendar 1054
+year ending immediately prior to the date on which the trust 1055
+recognizes the qualifying trust amount, more than fifty per cent 1056
+of the equity of a pass-through entity, then the qualifying 1057
+investee and the other members are deemed to own the 1058
+proportionate share of the pass-through entity's physical assets 1059
+which the pass-through entity directly or indirectly owns on the 1060
+last day of the pass-through entity's calendar or fiscal year 1061
+ending within or with the last day of the qualifying investee's 1062
+fiscal or calendar year ending immediately prior to the date on 1063
+which the trust recognizes the qualifying trust amount. 1064
+(iii) For the purposes of division (AA)(5)(a)(iii) of this 1065
+section, "upper level pass-through entity" means a pass-through 1066
+entity directly or indirectly owning any equity of another pass- 1067
+through entity, and "lower level pass-through entity" means that 1068
+other pass-through entity. 1069
+An upper level pass-through entity, whether or not it is 1070
+
+Sub. S. B. No. 9 Page 38
+As Reconsidered and Passed by the House
+also a qualifying investee, is deemed to own, on the last day of 1071
+the upper level pass-through entity's calendar or fiscal year, 1072
+the proportionate share of the lower level pass-through entity's 1073
+physical assets that the lower level pass-through entity 1074
+directly or indirectly owns on the last day of the lower level 1075
+pass-through entity's calendar or fiscal year ending within or 1076
+with the last day of the upper level pass-through entity's 1077
+fiscal or calendar year. If the upper level pass-through entity 1078
+directly and indirectly owns less than fifty per cent of the 1079
+equity of the lower level pass-through entity on each day of the 1080
+upper level pass-through entity's calendar or fiscal year in 1081
+which or with which ends the calendar or fiscal year of the 1082
+lower level pass-through entity and if, based upon clear and 1083
+convincing evidence, complete information about the location and 1084
+cost of the physical assets of the lower pass-through entity is 1085
+not available to the upper level pass-through entity, then 1086
+solely for purposes of ascertaining if a gain or loss 1087
+constitutes a qualifying trust amount, the upper level pass- 1088
+through entity shall be deemed as owning no equity of the lower 1089
+level pass-through entity for each day during the upper level 1090
+pass-through entity's calendar or fiscal year in which or with 1091
+which ends the lower level pass-through entity's calendar or 1092
+fiscal year. Nothing in division (AA)(5)(a)(iii) of this section 1093
+shall be construed to provide for any deduction or exclusion in 1094
+computing any trust's Ohio taxable income. 1095
+(b) With respect to a trust that is not a resident for the 1096
+taxable year and with respect to a part of a trust that is not a 1097
+resident for the taxable year, "qualifying investee" for that 1098
+taxable year does not include a C corporation if both of the 1099
+following apply: 1100
+(i) During the taxable year the trust or part of the trust 1101
+
+Sub. S. B. No. 9 Page 39
+As Reconsidered and Passed by the House
+recognizes a gain or loss from the sale, exchange, or other 1102
+disposition of equity or ownership interests in, or debt 1103
+obligations of, the C corporation. 1104
+(ii) Such gain or loss constitutes nonbusiness income. 1105
+(6) "Available" means information is such that a person is 1106
+able to learn of the information by the due date plus 1107
+extensions, if any, for filing the return for the taxable year 1108
+in which the trust recognizes the gain or loss. 1109
+(BB) "Qualifying controlled group" has the same meaning as 1110
+in section 5733.04 of the Revised Code. 1111
+(CC) "Related member" has the same meaning as in section 1112
+5733.042 of the Revised Code. 1113
+(DD)(1) For the purposes of division (DD) of this section: 1114
+(a) "Qualifying person" means any person other than a 1115
+qualifying corporation. 1116
+(b) "Qualifying corporation" means any person classified 1117
+for federal income tax purposes as an association taxable as a 1118
+corporation, except either of the following: 1119
+(i) A corporation that has made an election under 1120
+subchapter S, chapter one, subtitle A, of the Internal Revenue 1121
+Code for its taxable year ending within, or on the last day of, 1122
+the investor's taxable year; 1123
+(ii) A subsidiary that is wholly owned by any corporation 1124
+that has made an election under subchapter S, chapter one, 1125
+subtitle A of the Internal Revenue Code for its taxable year 1126
+ending within, or on the last day of, the investor's taxable 1127
+year. 1128
+
+Sub. S. B. No. 9 Page 40
+As Reconsidered and Passed by the House
+(2) For the purposes of this chapter, unless expressly 1129
+stated otherwise, no qualifying person indirectly owns any asset 1130
+directly or indirectly owned by any qualifying corporation. 1131
+(EE) For purposes of this chapter and Chapter 5751. of the 1132
+Revised Code: 1133
+(1) "Trust" does not include a qualified pre-income tax 1134
+trust. 1135
+(2) A "qualified pre-income tax trust" is any pre-income 1136
+tax trust that makes a qualifying pre-income tax trust election 1137
+as described in division (EE)(3) of this section. 1138
+(3) A "qualifying pre-income tax trust election" is an 1139
+election by a pre-income tax trust to subject to the tax imposed 1140
+by section 5751.02 of the Revised Code the pre-income tax trust 1141
+and all pass-through entities of which the trust owns or 1142
+controls, directly, indirectly, or constructively through 1143
+related interests, five per cent or more of the ownership or 1144
+equity interests. The trustee shall notify the tax commissioner 1145
+in writing of the election on or before April 15, 2006. The 1146
+election, if timely made, shall be effective on and after 1147
+January 1, 2006, and shall apply for all tax periods and tax 1148
+years until revoked by the trustee of the trust. 1149
+(4) A "pre-income tax trust" is a trust that satisfies all 1150
+of the following requirements: 1151
+(a) The document or instrument creating the trust was 1152
+executed by the grantor before January 1, 1972; 1153
+(b) The trust became irrevocable upon the creation of the 1154
+trust; and 1155
+(c) The grantor was domiciled in this state at the time 1156
+
+Sub. S. B. No. 9 Page 41
+As Reconsidered and Passed by the House
+the trust was created. 1157
+(FF) "Uniformed services" means all of the following: 1158
+(1) "Armed forces of the United States" as defined in 1159
+section 5907.01 of the Revised Code; 1160
+(2) The commissioned corps of the national oceanic and 1161
+atmospheric administration; 1162
+(3) The commissioned corps of the public health service. 1163
+(GG) "Taxable business income" means the amount by which 1164
+an individual's business income that is included in federal 1165
+adjusted gross income exceeds the amount of business income the 1166
+individual is authorized to deduct under division (A)(28) of 1167
+this section for the taxable year. 1168
+(HH) "Employer" does not include a franchisor with respect 1169
+to the franchisor's relationship with a franchisee or an 1170
+employee of a franchisee, unless the franchisor agrees to assume 1171
+that role in writing or a court of competent jurisdiction 1172
+determines that the franchisor exercises a type or degree of 1173
+control over the franchisee or the franchisee's employees that 1174
+is not customarily exercised by a franchisor for the purpose of 1175
+protecting the franchisor's trademark, brand, or both. For 1176
+purposes of this division, "franchisor" and "franchisee" have 1177
+the same meanings as in 16 C.F.R. 436.1. 1178
+(II) "Modified adjusted gross income" means Ohio adjusted 1179
+gross income plus any amount deducted under divisions (A)(28) 1180
+and (34) of this section for the taxable year. 1181
+(JJ) "Qualifying Ohio educator" means an individual who, 1182
+for a taxable year, qualifies as an eligible educator, as that 1183
+term is defined in section 62 of the Internal Revenue Code, and 1184
+
+Sub. S. B. No. 9 Page 42
+As Reconsidered and Passed by the House
+who holds a certificate, license, or permit described in Chapter 1185
+3319. or section 3301.071 of the Revised Code. 1186
+(KK) "Professional employer organization," "professional 1187
+employer organization agreement," and "professional employer 1188
+organization reporting entity" have the same meanings as in 1189
+section 4125.01 of the Revised Code. 1190
+(LL) "Alternate employer organization" and "alternate 1191
+employer organization agreement" have the same meanings as in 1192
+section 4133.01 of the Revised Code. 1193
+(MM) "Casino gaming" has the same meaning as in section 1194
+3772.01 of the Revised Code, "lottery sports gaming" has the 1195
+same meaning as in section 3770.23 of the Revised Code, "sports 1196
+gaming" has the same meaning as in section 3775.01 of the 1197
+Revised Code, and "video lottery terminal" has the same meaning 1198
+as in section 3770.21 of the Revised Code. 1199
+Section 2. That existing sections 5701.11 and 5747.01 of 1200
+the Revised Code are hereby repealed. 1201
+Section 3. This act is hereby declared to be an emergency 1202
+measure necessary for the immediate preservation of the public 1203
+peace, health, and safety. The reason for such necessity is to 1204
+enable taxpayers to avoid making miscellaneous adjustments on 1205
+their 2025 tax returns that increase costs of compliance. 1206
+Therefore, this act shall go into immediate effect. 1207
