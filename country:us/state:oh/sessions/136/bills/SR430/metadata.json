@@ -28,7 +28,20 @@
       "identifier": "ocd-bill-oh-136-sr430"
     }
   ],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Adopted",
+      "date": "2026-08-11T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-13T07:00:23Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Mark Romanchuk",
@@ -96,7 +109,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T07:02:07Z",
+    "logs_latest_update": "2026-08-13T07:00:23Z",
     "text_extraction_latest_update": "2026-08-12T07:03:32.065889Z"
   }
 }
