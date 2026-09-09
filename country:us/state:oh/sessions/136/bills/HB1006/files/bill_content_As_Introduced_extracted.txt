@@ -1,0 +1,8 @@
+Title: hb1006_00_IN
+Official Title: 
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+hb1006_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 1006 2025-2026 Representative Mathews, T. Cosponsor: Representative Klopfenstein To enact section 921.32 of the Revised Code to limit manufacturer liability for failure-to-warn claims if a pesticide's label complies with specified requirements. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 921.32 of the Revised Code be enacted to read as follows: Sec. 921.32. (A) Notwithstanding any provision of the Revised Code to the contrary, beginning January 1, 2028, the displayed label of a pesticide is deemed not to be misbranded and sufficient for purposes of an action commenced under any provision of state law concerning the duty to warn or label or any other common law duty to warn if either of the following applies to such label: (1) It is approved by the United States environmental protection agency. (2) It is consistent with the most recent human health risk assessment performed under the federal act. (B) This section applies only to a pesticide that is registered with the director of agriculture in accordance with this chapter or the United States environmental protection agency. However, this section does not apply when a determination has been made by the United States environmental protection agency that a manufacturer knowingly withheld, concealed, misrepresented, or destroyed material information regarding the human health risks of a pesticide in order to obtain or maintain approval of its label by the United States environmental protection agency.

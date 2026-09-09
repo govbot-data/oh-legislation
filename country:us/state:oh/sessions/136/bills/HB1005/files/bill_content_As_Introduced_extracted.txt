@@ -1,0 +1,8 @@
+Title: hb1005_00_IN
+Official Title: 
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+hb1005_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 1005 2025-2026 Representative John To enact section 5167.052 of the Revised Code regarding Medicaid managed care organization payment rates for durable medical equipment, complex rehab technology, prosthetics, orthotics, and supplies. BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 5167.052 of the Revised Code be enacted to read as follows: Sec. 5167.052. A medicaid managed care organization, the organization's subcontractors, or a third-party administrator shall provide a payment rate for durable medical equipment, prosthetics, orthotics, and supplies that equals one hundred per cent of the payment rate for durable medical equipment, prosthetics, orthotics, and supplies under the fee-for-service component of medicaid.
