@@ -1,0 +1,8 @@
+Title: hb1017_00_IN
+Official Title: 
+Source: versions - As Introduced
+Media Type: text/html
+
+================================================================================
+
+hb1017_00_IN As Introduced 136th General Assembly Regular Session	H. B. No. 1017 2025-2026 Representative Brewer To enact section 5.2325 of the Revised Code to designate September as "STXBP1 Awareness Month." BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF OHIO: Section 1. That section 5.2325 of the Revised Code be enacted to read as follows: Sec. 5.2325. The month of September is designated as "STXBP1 Awareness Month," to increase public awareness of pathogenic mutations of the syntaxin binding protein 1 gene and related disorders, which are associated with neurodevelopmental delays, early onset epilepsy, movement disorders, communication issues, and autism spectrum disorder.
