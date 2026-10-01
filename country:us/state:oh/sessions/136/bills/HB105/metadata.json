@@ -138,38 +138,6 @@
       }
     },
     {
-      "description": "Message Read",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:19Z"
-      }
-    },
-    {
-      "description": "Concurred in Senate amendments",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:19Z"
-      }
-    },
-    {
-      "description": "The question being, Shall the amendments be concurred in?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:19Z"
-      }
-    },
-    {
       "description": "Reported - Substitute",
       "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -191,6 +159,18 @@
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:56:19Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -264,11 +244,67 @@
       "organization_id": null
     },
     {
+      "name": "Tim Barhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Barhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jack K. Daniels",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kellie Deeter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kellie Deeter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haraz N. Ghanbari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marilyn John",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marilyn John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela N. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela N. King\"}",
       "organization_id": null
     },
     {
@@ -280,11 +316,91 @@
       "organization_id": null
     },
     {
+      "name": "Brian Lorenz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Lorenz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Riordan T. McClain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Odioso",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Odioso\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bob Peterson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bob Peterson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon A. Ray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Roemer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Roemer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Sigrist",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Sigrist\"}",
+      "organization_id": null
+    },
+    {
       "name": "David Thomas",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan H. Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan H. Manning\"}",
       "organization_id": null
     }
   ],
@@ -382,6 +498,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28811",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By Senate Committee",
       "links": [

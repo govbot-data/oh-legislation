@@ -137,38 +137,6 @@
       }
     },
     {
-      "description": "Message Read",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:20Z"
-      }
-    },
-    {
-      "description": "The question being, Shall the amendments be concurred in?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:20Z"
-      }
-    },
-    {
-      "description": "Concurred in Senate amendments",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:20Z"
-      }
-    },
-    {
       "description": "Reported - Substitute",
       "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -190,6 +158,18 @@
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:56:20Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -263,6 +243,38 @@
       "organization_id": null
     },
     {
+      "name": "Tim Barhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Barhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Brownlee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Brownlee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Click",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jack K. Daniels",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -287,11 +299,43 @@
       "organization_id": null
     },
     {
+      "name": "Derrick Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Hiner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Hiner\"}",
+      "organization_id": null
+    },
+    {
       "name": "Marilyn John",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Marilyn John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ty D. Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph A. Miller, III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph A. Miller, III\"}",
       "organization_id": null
     },
     {
@@ -303,11 +347,75 @@
       "organization_id": null
     },
     {
+      "name": "Phil Plummer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Plummer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tristan Rader",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tristan Rader\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anita Somani",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Anita Somani\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cecil Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cecil Thomas\"}",
+      "organization_id": null
+    },
+    {
       "name": "David Thomas",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"David Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Daniel P. Troy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Daniel P. Troy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Erika White",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Erika White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],

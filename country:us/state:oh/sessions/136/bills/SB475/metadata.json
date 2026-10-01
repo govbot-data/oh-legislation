@@ -41,6 +41,24 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:37:08Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate General Government Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:46:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,7 +97,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28845",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28850",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:37:08Z",
+    "logs_latest_update": "2026-10-01T11:46:37Z",
     "text_extraction_latest_update": "2026-09-29T11:38:35.981968Z"
   }
 }

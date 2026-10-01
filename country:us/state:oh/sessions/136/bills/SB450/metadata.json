@@ -152,26 +152,6 @@
       }
     },
     {
-      "description": "Question being, Shall the emergency clause stand?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
-      "description": "Pass as an emergency measure?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
       "description": "Passed",
       "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",

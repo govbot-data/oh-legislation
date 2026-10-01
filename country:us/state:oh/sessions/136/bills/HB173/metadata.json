@@ -7,6 +7,8 @@
     "bill"
   ],
   "subject": [
+    "Housing and Real Property",
+    "Landlords and Tenants",
     "Utilities"
   ],
   "abstracts": [
@@ -164,26 +166,6 @@
       }
     },
     {
-      "description": "Message Read",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:19Z"
-      }
-    },
-    {
-      "description": "The question being, Shall the amendments be concurred in?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:19Z"
-      }
-    },
-    {
       "description": "Concurred in Senate amendments",
       "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -225,6 +207,78 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"David Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Click",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack K. Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Hiner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Hiner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Holmes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Holmes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Lorenz",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Lorenz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
       "organization_id": null
     }
   ],
@@ -322,6 +376,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28807",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By Senate Committee",
       "links": [

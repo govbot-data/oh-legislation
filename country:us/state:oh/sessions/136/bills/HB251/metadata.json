@@ -139,38 +139,6 @@
       }
     },
     {
-      "description": "Message Read",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
-      "description": "The question being, Shall the amendments be concurred in?",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
-      "description": "Concurred in Senate amendments",
-      "date": "2026-06-10T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
       "description": "Reported - Substitute",
       "date": "2026-06-10T04:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -192,6 +160,18 @@
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:56:22Z"
+      }
+    },
+    {
+      "description": "Concurred in Senate amendments",
+      "date": "2026-06-10T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "amendment-passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -286,6 +266,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Adam Holmes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnathan Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnathan Newman\"}",
       "organization_id": null
     }
   ],

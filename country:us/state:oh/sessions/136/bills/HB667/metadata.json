@@ -7,10 +7,14 @@
     "bill"
   ],
   "subject": [
+    "Courts",
+    "Courts and Civil Law",
     "Crime and Punishment",
     "Crimes, Corrections, and Law Enforcement",
     "Law Enforcement",
-    "Sentencing"
+    "Sentencing",
+    "Telecommunications",
+    "Utilities"
   ],
   "abstracts": [
     {
@@ -107,6 +111,24 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-09-30T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-10-01T11:46:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -199,11 +221,27 @@
       "organization_id": null
     },
     {
+      "name": "Cecil Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cecil Thomas\"}",
+      "organization_id": null
+    },
+    {
       "name": "Andrea White",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Andrea White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],
@@ -339,7 +377,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-10-01T11:46:37Z",
     "text_extraction_latest_update": "2026-07-21T21:53:31.327195Z"
   }
 }
