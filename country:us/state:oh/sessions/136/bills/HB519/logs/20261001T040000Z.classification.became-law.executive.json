@@ -1,8 +1,8 @@
 {
   "action": {
-    "description": "Effective\n\t\t\t\t\t\n\t\t\t\t\tEmergency; Certain provisions effective December 30, 2026",
+    "description": "Effective 10/1/26",
     "occurred_at": "2026-10-01T04:00:00+00:00",
-    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
     "session_id": "136",
     "entity_type": "bill",
     "classifications": [
