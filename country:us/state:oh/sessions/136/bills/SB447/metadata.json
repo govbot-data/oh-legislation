@@ -28,38 +28,7 @@
       "identifier": "ocd-bill-oh-136-sb447"
     }
   ],
-  "actions": [
-    {
-      "description": "Introduced",
-      "date": "2026-05-26T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    },
-    {
-      "description": "Referred to committee",
-      "date": "2026-06-02T04:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [
-        {
-          "name": "Senate Ways and Means Committee",
-          "entity_type": "organization",
-          "organization_id": null
-        }
-      ],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:22Z"
-      }
-    }
-  ],
+  "actions": [],
   "sponsorships": [
     {
       "name": "Andrew O. Brenner",
