@@ -109,6 +109,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-29T12:19:53Z"
+    "logs_latest_update": "2026-10-29T12:19:53Z",
+    "text_extraction_latest_update": "2026-10-29T12:21:23.736162Z"
   }
 }
