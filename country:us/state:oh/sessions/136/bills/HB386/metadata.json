@@ -163,6 +163,182 @@
       "primary": true,
       "person_id": "~{\"name\": \"Cindy Abrams\"}",
       "organization_id": null
+    },
+    {
+      "name": "Adam C. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam C. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Karen Brownlee",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Karen Brownlee\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Gross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Gross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Derrick Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Marilyn John",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Marilyn John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Lampton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Lampton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Lear",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Lear\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joseph A. Miller, III",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Joseph A. Miller, III\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnathan Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnathan Newman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Oelslager",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Scott Oelslager\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Plummer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Plummer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sharon A. Ray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sharon A. Ray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tracy M. Richardson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica Robb Blasdel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica Robb Blasdel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eric Synenberg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Eric Synenberg\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cecil Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cecil Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

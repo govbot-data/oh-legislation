@@ -45,6 +45,24 @@
       "_processing": {
         "log_file_created": "2026-10-23T10:47:56Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Technology and Innovation Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Technology and Innovation Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -207,7 +225,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-23T10:47:56Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-10-23T10:49:07.155496Z"
   }
 }

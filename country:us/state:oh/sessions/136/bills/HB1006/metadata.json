@@ -1,7 +1,7 @@
 {
   "legislative_session": "136",
   "identifier": "HB 1006",
-  "title": "No title provided",
+  "title": "Limit manufacturer liability for pesticide failure-to-warn claims",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -38,6 +38,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-09T09:51:43Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Agriculture Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Agriculture Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
       }
     }
   ],
@@ -97,7 +115,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-09T09:51:43Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-09-09T09:53:05.599240Z"
   }
 }

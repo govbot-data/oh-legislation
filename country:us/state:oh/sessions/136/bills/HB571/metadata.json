@@ -98,7 +98,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28865",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28998",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {

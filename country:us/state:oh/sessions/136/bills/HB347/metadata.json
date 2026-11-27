@@ -30,6 +30,18 @@
     {
       "note": "long title",
       "title": "To amend sections 2305.11 and 2307.46 and to enact section 2317.58 of the Revised Code to enact the Share the Health and Empower With Informed Notices (SHE WINS) Act regarding abortion informed consent."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.11 and 2307.46 and to enact section 2317.58 of the Revised Code to enact the Share the Health and Empower With Informed Notices (SHE WINS) Act regarding abortion informed consent."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.11 and 2307.46 and to enact section 2317.58 of the Revised Code to enact the Share the Health and Empower With Informed Notices (SHE WINS) Act regarding abortion informed consent."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 2305.11 and 2307.46 and to enact section 2317.58 of the Revised Code to enact the Share the Health and Empower With Informed Notices (SHE WINS) Act regarding abortion informed consent."
     }
   ],
   "other_identifiers": [
@@ -125,6 +137,34 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:22Z"
       }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Health Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Health Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -145,11 +185,59 @@
       "organization_id": null
     },
     {
+      "name": "Tim Barhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Barhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam C. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam C. Bird\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jamie Callender",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jamie Callender\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thaddeus J. Claggett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thaddeus J. Claggett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Click",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
       "name": "Meredith Craig",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Meredith Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rodney Creech",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Rodney Creech\"}",
       "organization_id": null
     },
     {
@@ -161,6 +249,78 @@
       "organization_id": null
     },
     {
+      "name": "Michael D. Dovilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ron Ferguson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ron Ferguson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Fowler Arthur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haraz N. Ghanbari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Gross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Gross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Hiner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Hiner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Holmes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Holmes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "James M. Hoops",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"James M. Hoops\"}",
+      "organization_id": null
+    },
+    {
       "name": "Marilyn John",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -169,11 +329,155 @@
       "organization_id": null
     },
     {
+      "name": "Mark Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela N. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela N. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Roy Klopfenstein",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Roy Klopfenstein\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Lear",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Lear\"}",
+      "organization_id": null
+    },
+    {
       "name": "Adam Mathews",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Adam Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ty D. Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Riordan T. McClain",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Riordan T. McClain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Melanie Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Johnathan Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnathan Newman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Plummer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Plummer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tracy M. Richardson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tracy M. Richardson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Ritter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin Ritter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Monica Robb Blasdel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Monica Robb Blasdel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jodi Salvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jodi Salvo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. J. Swearingen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"David Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heidi Workman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heidi Workman\"}",
       "organization_id": null
     }
   ],
@@ -223,9 +527,65 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Health Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/03_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/03_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/04_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/04_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Enrolled",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/05_EN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/05_EN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29070",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Passed By House",
       "links": [
@@ -253,6 +613,28 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25798",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29091",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29069",
           "media_type": "application/pdf"
         }
       ],
@@ -293,6 +675,17 @@
       "classification": ""
     },
     {
+      "note": "Additional Documents: Synopsis of Senate Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29071",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Additional Documents: Occupational Regulation Report",
       "links": [
         {
@@ -321,6 +714,18 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb347/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -331,7 +736,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:32:55.766692Z"
   }
 }

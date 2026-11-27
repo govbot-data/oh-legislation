@@ -34,6 +34,10 @@
     {
       "note": "long title",
       "title": "To amend sections 3781.06, 3781.061, and 5713.30 of the Revised Code relating to temporary greenhouses and building codes, to establish the Urban Farmer Youth Initiative Pilot Program, to codify certain property tax requirements for agricultural land, and to make an appropriation."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3781.06, 3781.061, and 5713.30 of the Revised Code relating to temporary greenhouses and building codes, to establish the Urban Farmer Youth Initiative Pilot Program, to codify certain property tax requirements for agricultural land, and to make an appropriation."
     }
   ],
   "other_identifiers": [
@@ -129,6 +133,22 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
       }
+    },
+    {
+      "description": "Reported - Re-referred to Rules and Reference",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Agriculture Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Agriculture Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -149,11 +169,27 @@
       "organization_id": null
     },
     {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "organization_id": null
+    },
+    {
       "name": "William P. DeMora",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"William P. DeMora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Romanchuk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Romanchuk\"}",
       "organization_id": null
     },
     {
@@ -227,6 +263,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Agriculture Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb120/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb120/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -257,6 +308,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26183",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29112",
           "media_type": "application/pdf"
         }
       ],
@@ -314,6 +376,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb120/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb120/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -324,7 +390,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:42:49.693752Z"
   }
 }

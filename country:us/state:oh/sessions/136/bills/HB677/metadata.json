@@ -12,7 +12,10 @@
     "Crime and Punishment",
     "Crimes, Corrections, and Law Enforcement",
     "Law Enforcement",
+    "Public Officials and Employees",
+    "Retirement",
     "Sentencing",
+    "State and Local Government",
     "Telecommunications",
     "Utilities"
   ],
@@ -136,6 +139,22 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Cindy Abrams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cecil Thomas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cecil Thomas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],

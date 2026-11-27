@@ -44,11 +44,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Sean Hutson",
+      "name": "Sean M. Hutson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Sean Hutson\"}",
+      "person_id": "~{\"name\": \"Sean M. Hutson\"}",
       "organization_id": null
     }
   ],

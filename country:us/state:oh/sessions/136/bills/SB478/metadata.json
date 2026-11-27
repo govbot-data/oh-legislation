@@ -1,7 +1,7 @@
 {
   "legislative_session": "136",
   "identifier": "SB 478",
-  "title": "No title provided",
+  "title": "Prohibit levy of certain sales, use taxes without voter approval",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -40,6 +40,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-14T11:08:45Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Ways and Means Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Ways and Means Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -91,7 +109,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-14T11:08:45Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_unavailable": {
       "reason": "download_failed",
       "checked_at": "2026-10-14T13:07:50.087258Z"

@@ -25,6 +25,10 @@
     {
       "note": "long title",
       "title": "To amend section 173.503 and to repeal section 173.502 of the Revised Code regarding site expansion and timely enrollment for the Program of All-Inclusive Care for the Elderly (PACE)."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 173.503 and to repeal section 173.502 of the Revised Code regarding site expansion and timely enrollment for the Program of All-Inclusive Care for the Elderly (PACE)."
     }
   ],
   "other_identifiers": [
@@ -78,6 +82,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -95,6 +123,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Andrea White\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
       "organization_id": null
     }
   ],
@@ -129,9 +165,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb750/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb750/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29103",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -148,6 +210,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=27477",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29107",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +263,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb750/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb750/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -200,7 +277,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:58:00.781199Z"
   }
 }

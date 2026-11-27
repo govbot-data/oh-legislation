@@ -99,6 +99,28 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29032",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29023",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],

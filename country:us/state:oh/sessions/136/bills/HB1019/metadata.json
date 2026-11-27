@@ -1,7 +1,7 @@
 {
   "legislative_session": "136",
   "identifier": "HB 1019",
-  "title": "No title provided",
+  "title": "Temporarily reduce motor fuel taxes; levy a temporary tax",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -41,6 +41,24 @@
       "_processing": {
         "log_file_created": "2026-09-29T11:37:08Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Finance Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Finance Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -79,7 +97,30 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28847",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28853",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -99,7 +140,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:37:08Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-09-29T11:38:25.665503Z"
   }
 }

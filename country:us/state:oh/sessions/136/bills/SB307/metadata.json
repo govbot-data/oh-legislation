@@ -134,6 +134,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Jane M. Timken\"}",
       "organization_id": null
+    },
+    {
+      "name": "Beth Liston",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Liston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristina D. Roegner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

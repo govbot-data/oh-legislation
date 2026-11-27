@@ -41,6 +41,24 @@
       "_processing": {
         "log_file_created": "2026-08-13T07:00:23Z"
       }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Agriculture Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Agriculture Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,7 +89,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29003",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -91,7 +121,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-13T07:00:23Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-08-13T07:02:06.923039Z"
   }
 }

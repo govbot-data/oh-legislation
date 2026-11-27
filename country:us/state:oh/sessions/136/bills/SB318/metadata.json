@@ -154,6 +154,166 @@
       "primary": true,
       "person_id": "~{\"name\": \"Al Cutrona\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Fowler Arthur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Odioso",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Odioso\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theresa Gavarone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine D. Ingram",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Landis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Landis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "George F. Lang",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"George F. Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan H. Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sandra O'Brien",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas F. Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Reineke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Reineke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Reynolds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristina D. Roegner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Romanchuk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jane M. Timken",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jane M. Timken\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shane Wilkin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Shane Wilkin\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

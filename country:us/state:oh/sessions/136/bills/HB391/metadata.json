@@ -20,6 +20,14 @@
     {
       "note": "long title",
       "title": "To amend sections 323.131 and 4503.06 and to enact section 5705.171 of the Revised Code to require tax rates to be expressed as a percentage of true value on tax bills and ballot language."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 133.18, 306.32, 306.322, 323.131, 345.01, 345.03, 345.04, 505.37, 505.48, 505.481, 511.28, 511.34, 513.18, 718.04, 718.09, 718.10, 755.181, 1545.041, 1545.21, 1711.30, 3311.50, 3318.01, 3318.06, 3318.061, 3318.062, 3318.063, 3318.361, 3318.45, 3381.03, 4503.06, 4582.024, 4582.26, 5705.01, 5705.03, 5705.195, 5705.196, 5705.197, 5705.21, 5705.213, 5705.215, 5705.218, 5705.219, 5705.233, 5705.25, 5705.251, 5705.261, 5705.55, 5748.01, 5748.02, 5748.021, 5748.03, and 5748.08 of the Revised Code to require tax rates to be expressed as a percentage of true value on tax bills and ballot language and to require the ballot language for a local income tax levy to include the estimated annual revenue the levy would generate."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 133.18, 306.32, 306.322, 323.131, 345.01, 345.03, 345.04, 505.37, 505.48, 505.481, 511.28, 511.34, 513.18, 718.04, 718.09, 718.10, 755.181, 1545.041, 1545.21, 1711.30, 3311.50, 3318.01, 3318.06, 3318.061, 3318.062, 3318.063, 3318.361, 3318.45, 3381.03, 4503.06, 4582.024, 4582.26, 5705.01, 5705.03, 5705.195, 5705.196, 5705.197, 5705.21, 5705.213, 5705.215, 5705.218, 5705.219, 5705.233, 5705.25, 5705.251, 5705.261, 5705.55, 5748.01, 5748.02, 5748.021, 5748.03, and 5748.08 of the Revised Code to require tax rates to be expressed as a percentage of true value on tax bills and ballot language and to require the ballot language for a local income tax levy to include the estimated annual revenue the levy would generate."
     }
   ],
   "other_identifiers": [
@@ -56,6 +64,46 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Ways and Means Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Ways and Means Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
       }
     }
   ],
@@ -245,14 +293,88 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Ways and Means Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29100",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29073",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26556",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29077",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29024",
           "media_type": "application/pdf"
         }
       ],
@@ -269,12 +391,31 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28929",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hb391",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb391/",
       "note": ""
     },
     {
@@ -290,7 +431,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-07-21T20:44:28.917594Z"
   }
 }

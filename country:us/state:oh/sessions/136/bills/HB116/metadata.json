@@ -137,6 +137,46 @@
       "organization_id": null
     },
     {
+      "name": "Thaddeus J. Claggett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thaddeus J. Claggett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Gary Click",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack K. Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack K. Daniels\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kellie Deeter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kellie Deeter\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael D. Dovilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tex Fischer",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -145,11 +185,51 @@
       "organization_id": null
     },
     {
+      "name": "Jennifer Gross",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jennifer Gross\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela N. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela N. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Lear",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Lear\"}",
+      "organization_id": null
+    },
+    {
       "name": "Brian Lorenz",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Brian Lorenz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
       "organization_id": null
     },
     {
@@ -169,11 +249,59 @@
       "organization_id": null
     },
     {
+      "name": "Melanie Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Melanie Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Phil Plummer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Phil Plummer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Roemer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Roemer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "D. J. Swearingen",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"D. J. Swearingen\"}",
+      "organization_id": null
+    },
+    {
       "name": "Josh Williams",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Heidi Workman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Heidi Workman\"}",
       "organization_id": null
     }
   ],

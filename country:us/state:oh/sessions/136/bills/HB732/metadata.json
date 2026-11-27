@@ -175,6 +175,22 @@
       "organization_id": null
     },
     {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lauren McNally",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lauren McNally\"}",
+      "organization_id": null
+    },
+    {
       "name": "Monica Robb Blasdel",
       "classification": "cosponsor",
       "entity_type": "person",

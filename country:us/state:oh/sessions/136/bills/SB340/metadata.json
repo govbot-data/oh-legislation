@@ -24,6 +24,14 @@
     {
       "note": "long title",
       "title": "To amend sections 4511.092, 4511.093, 4511.096, 4511.097, 4511.098, 4511.099, and 4511.0911; to enact new section 4511.094; and to repeal sections 4511.094, 4511.095, 4511.0912, 4511.0913, and 4511.0914 of the Revised Code to require elector approval for a municipal traffic camera program and to streamline the traffic camera laws."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 4511.093 of the Revised Code to require elector approval for a municipal traffic camera program."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 4511.093 of the Revised Code to require elector approval for a municipal traffic camera program."
     }
   ],
   "other_identifiers": [
@@ -61,6 +69,46 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
       }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Local Government Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Local Government Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -89,14 +137,88 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Local Government Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/02_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/02_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29119",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29048",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=27056",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29083",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29058",
           "media_type": "application/pdf"
         }
       ],
@@ -124,6 +246,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb340/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -134,7 +264,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:13:47.127442Z"
   }
 }

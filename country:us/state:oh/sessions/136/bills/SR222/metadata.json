@@ -62,6 +62,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bill Reineke\"}",
       "organization_id": null
+    },
+    {
+      "name": "Thomas F. Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

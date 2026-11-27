@@ -144,6 +144,14 @@
       "organization_id": null
     },
     {
+      "name": "Cindy Abrams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Abrams\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tim Barhorst",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -176,11 +184,27 @@
       "organization_id": null
     },
     {
+      "name": "Meredith Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meredith Craig\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rodney Creech",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Rodney Creech\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jack K. Daniels",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jack K. Daniels\"}",
       "organization_id": null
     },
     {
@@ -208,6 +232,14 @@
       "organization_id": null
     },
     {
+      "name": "Michael D. Dovilla",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michael D. Dovilla\"}",
+      "organization_id": null
+    },
+    {
       "name": "Ron Ferguson",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -229,6 +261,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haraz N. Ghanbari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
       "organization_id": null
     },
     {
@@ -296,6 +336,14 @@
       "organization_id": null
     },
     {
+      "name": "Matthew Kishman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Matthew Kishman\"}",
+      "organization_id": null
+    },
+    {
       "name": "Roy Klopfenstein",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -325,6 +373,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Brian Lorenz\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
       "organization_id": null
     },
     {
@@ -424,6 +480,14 @@
       "organization_id": null
     },
     {
+      "name": "Bill Roemer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Roemer\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jodi Salvo",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -432,11 +496,35 @@
       "organization_id": null
     },
     {
+      "name": "Nick Santucci",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nick Santucci\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jean Schmidt",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jason Stephens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jason Stephens\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Stewart",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Stewart\"}",
       "organization_id": null
     },
     {
@@ -477,6 +565,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Heidi Workman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tom Young",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tom Young\"}",
       "organization_id": null
     }
   ],
@@ -556,6 +652,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25423",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Pending in Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29125",
           "media_type": "application/pdf"
         }
       ],

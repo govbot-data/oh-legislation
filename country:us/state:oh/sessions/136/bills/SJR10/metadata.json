@@ -7,6 +7,7 @@
     "resolution"
   ],
   "subject": [
+    "Constitutional Amendment",
     "Elections"
   ],
   "abstracts": [
@@ -192,6 +193,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Theresa Gavarone\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stephen A. Huffman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -289,6 +298,17 @@
   ],
   "documents": [
     {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28788",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Analysis: As Reported By House Committee",
       "links": [
         {
@@ -333,10 +353,10 @@
       "classification": ""
     },
     {
-      "note": "Fiscal Notes: As Adopted By House",
+      "note": "Fiscal Notes: Final Fiscal Note",
       "links": [
         {
-          "url": "https://www.legislature.ohio.gov//download?key=28633",
+          "url": "https://www.legislature.ohio.gov//download?key=28678",
           "media_type": "application/pdf"
         }
       ],
@@ -344,10 +364,10 @@
       "classification": ""
     },
     {
-      "note": "Fiscal Notes: Final Fiscal Note",
+      "note": "Fiscal Notes: As Adopted By House",
       "links": [
         {
-          "url": "https://www.legislature.ohio.gov//download?key=28678",
+          "url": "https://www.legislature.ohio.gov//download?key=28633",
           "media_type": "application/pdf"
         }
       ],

@@ -20,6 +20,14 @@
     {
       "note": "long title",
       "title": "To amend sections 3314.03, 3326.11, and 3328.24 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3314.03 and 3326.11 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 3314.03 and 3326.11 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools."
     }
   ],
   "other_identifiers": [
@@ -56,6 +64,46 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Education Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Education Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Passed - Amended",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -117,14 +165,88 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the Senate Education Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/01_RS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/01_RS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/02_PS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/02_PS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29122",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29044",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24706",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By Senate",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29110",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By Senate Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29042",
           "media_type": "application/pdf"
         }
       ],
@@ -152,6 +274,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -162,7 +292,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T20:24:08.228107Z"
   }
 }

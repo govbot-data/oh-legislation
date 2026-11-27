@@ -1,7 +1,7 @@
 {
   "legislative_session": "136",
   "identifier": "SB 477",
-  "title": "No title provided",
+  "title": "Revise law regarding electric bicycles, other mobility devices",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -42,6 +42,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-10-08T12:17:04Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Transportation Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Transportation Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -93,7 +111,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-10-08T12:17:04Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-10-08T12:18:26.490014Z"
   }
 }

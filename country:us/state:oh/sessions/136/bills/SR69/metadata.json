@@ -84,6 +84,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Michele Reynolds\"}",
       "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

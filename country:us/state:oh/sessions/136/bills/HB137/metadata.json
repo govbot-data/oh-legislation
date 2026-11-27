@@ -89,6 +89,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Brian Lorenz\"}",
       "organization_id": null
+    },
+    {
+      "name": "Angela N. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela N. King\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

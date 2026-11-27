@@ -134,6 +134,14 @@
       "organization_id": null
     },
     {
+      "name": "Nickie J. Antonio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nickie J. Antonio\"}",
+      "organization_id": null
+    },
+    {
       "name": "Willis E. Blackshear, Jr.",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -150,11 +158,99 @@
       "organization_id": null
     },
     {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hearcel F. Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theresa Gavarone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paula Hicks-Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Catherine D. Ingram",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
       "name": "Beth Liston",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Beth Liston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nathan H. Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas F. Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Reynolds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Reynolds\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kristina D. Roegner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kristina D. Roegner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
       "organization_id": null
     },
     {
@@ -187,6 +283,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Shane Wilkin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Wilson\"}",
       "organization_id": null
     }
   ],

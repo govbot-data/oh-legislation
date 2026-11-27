@@ -17,6 +17,10 @@
     {
       "note": "long title",
       "title": "Honoring the Wood County District Public Library on its One Hundred Fiftieth Anniversary."
+    },
+    {
+      "note": "long title",
+      "title": "Honoring the Wood County District Public Library on its One Hundred Fiftieth Anniversary."
     }
   ],
   "other_identifiers": [
@@ -51,6 +55,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr101/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr101/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "As Adopted by the Senate",
       "links": [
         {
@@ -71,6 +90,10 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sr101",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr101/",
       "note": ""
     },
     {

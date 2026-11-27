@@ -696,6 +696,17 @@
   ],
   "documents": [
     {
+      "note": "Analysis: Final Analysis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28885",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Analysis: As Reported By Senate Committee",
       "links": [
         {
@@ -733,6 +744,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26323",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: Final Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28888",
           "media_type": "application/pdf"
         }
       ],

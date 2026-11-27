@@ -130,6 +130,14 @@
       "organization_id": null
     },
     {
+      "name": "Nathan H. Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kent Smith",
       "classification": "cosponsor",
       "entity_type": "person",

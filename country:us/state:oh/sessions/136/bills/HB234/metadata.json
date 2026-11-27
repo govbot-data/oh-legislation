@@ -90,6 +90,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"D. J. Swearingen\"}",
       "organization_id": null
+    },
+    {
+      "name": "Johnathan Newman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Johnathan Newman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elgin Rogers, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

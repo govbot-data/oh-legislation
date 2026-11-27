@@ -10,7 +10,8 @@
     "Civil Law",
     "Courts",
     "Courts and Civil Law",
-    "State and Local Government"
+    "State and Local Government",
+    "Wills, Trusts, and Estates"
   ],
   "abstracts": [
     {
@@ -142,6 +143,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Brian Stewart\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mike Odioso",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mike Odioso\"}",
       "organization_id": null
     }
   ],

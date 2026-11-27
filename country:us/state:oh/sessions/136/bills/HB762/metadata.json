@@ -23,6 +23,10 @@
     {
       "note": "long title",
       "title": "To amend section 5739.02 of the Revised Code  to exempt certain vending machine food purchases from sales and use tax."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 5739.02 of the Revised Code  to exempt certain vending machine food purchases from sales and use tax."
     }
   ],
   "other_identifiers": [
@@ -76,6 +80,48 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Ways and Means Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Ways and Means Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -96,11 +142,27 @@
       "organization_id": null
     },
     {
+      "name": "Gary Click",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
       "name": "Tex Fischer",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tex Fischer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Roemer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Roemer\"}",
       "organization_id": null
     }
   ],
@@ -135,9 +197,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb762/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb762/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28955",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -196,6 +284,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb762/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb762/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -206,7 +298,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T20:10:06.931652Z"
   }
 }

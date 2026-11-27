@@ -133,6 +133,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Theresa Gavarone\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nathan H. Manning",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nathan H. Manning\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

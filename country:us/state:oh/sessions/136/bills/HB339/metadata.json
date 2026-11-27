@@ -170,6 +170,14 @@
       "organization_id": null
     },
     {
+      "name": "Michele Grim",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Grim\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jennifer Gross",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -263,6 +271,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],

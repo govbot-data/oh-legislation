@@ -27,6 +27,10 @@
     {
       "note": "long title",
       "title": "To amend sections 4781.40, 5301.072, 5311.191, and 5321.131 of the Revised Code  to prohibit manufactured home park operators, condominium associations, neighborhood associations, and landlords from restricting the display of the thin blue line flag and to name this act the Chief Steven DiSario Act."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4781.40, 5301.072, 5311.191, and 5321.131 of the Revised Code  to prohibit manufactured home park operators, condominium associations, neighborhood associations, and landlords from restricting the display of the thin blue line flag and to name this act the Chief Steven DiSario Act."
     }
   ],
   "other_identifiers": [
@@ -122,6 +126,22 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
       }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Government Oversight Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Government Oversight Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -131,6 +151,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
       "organization_id": null
     }
   ],
@@ -180,9 +208,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Government Oversight Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb202/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb202/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29064",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Passed By Senate",
       "links": [
@@ -210,6 +264,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25550",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29038",
           "media_type": "application/pdf"
         }
       ],
@@ -248,12 +313,27 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Additional Documents: Synopsis of House Committee Amendments",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29072",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sb202",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb202/",
       "note": ""
     },
     {
@@ -277,7 +357,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T19:57:51.960436Z"
   }
 }

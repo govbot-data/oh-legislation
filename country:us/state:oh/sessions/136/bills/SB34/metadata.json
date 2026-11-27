@@ -135,6 +135,14 @@
       "organization_id": null
     },
     {
+      "name": "Andrew O. Brenner",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Andrew O. Brenner\"}",
+      "organization_id": null
+    },
+    {
       "name": "Jerry C. Cirino",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -151,6 +159,14 @@
       "organization_id": null
     },
     {
+      "name": "Theresa Gavarone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "organization_id": null
+    },
+    {
       "name": "Stephen A. Huffman",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -159,11 +175,35 @@
       "organization_id": null
     },
     {
+      "name": "Kyle Koehler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Koehler\"}",
+      "organization_id": null
+    },
+    {
       "name": "George F. Lang",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"George F. Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sandra O'Brien",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michele Reynolds",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Michele Reynolds\"}",
       "organization_id": null
     },
     {
@@ -188,6 +228,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Wilson\"}",
       "organization_id": null
     }
   ],

@@ -123,6 +123,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
+    },
+    {
+      "name": "Adam C. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam C. Bird\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -17,6 +17,10 @@
     {
       "note": "long title",
       "title": "In memory of Gerald L. Stebelton."
+    },
+    {
+      "note": "long title",
+      "title": "In memory of Gerald L. Stebelton."
     }
   ],
   "other_identifiers": [
@@ -64,6 +68,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Adopted by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr448/01_AS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr448/01_AS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -71,6 +90,10 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sr448",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr448/",
       "note": ""
     },
     {

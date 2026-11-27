@@ -115,6 +115,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Steve Demetriou\"}",
       "organization_id": null
+    },
+    {
+      "name": "Ty D. Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ty D. Mathews\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

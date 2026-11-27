@@ -1,7 +1,7 @@
 {
   "legislative_session": "136",
   "identifier": "HB 1018",
-  "title": "No title provided",
+  "title": "Designate Dolly Parton Imagination Library Reading Day",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
@@ -39,6 +39,24 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-09-29T11:37:08Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "House Arts, Athletics, and Tourism Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Arts, Athletics, and Tourism Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -150,7 +168,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Analysis: As Introduced",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28960",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -170,7 +200,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-29T11:37:08Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-09-29T11:38:53.859438Z"
   }
 }

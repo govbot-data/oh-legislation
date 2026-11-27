@@ -115,7 +115,22 @@
       "note": "Fiscal Notes: As Pending in House Committee",
       "links": [
         {
+          "url": "https://www.legislature.ohio.gov//download?key=28965",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legislature.ohio.gov//download?key=28236",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Occupational Regulation Report",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29018",
           "media_type": "application/pdf"
         }
       ],

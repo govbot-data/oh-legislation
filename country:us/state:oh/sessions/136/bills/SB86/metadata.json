@@ -142,6 +142,126 @@
       "primary": true,
       "person_id": "~{\"name\": \"Shane Wilkin\"}",
       "organization_id": null
+    },
+    {
+      "name": "Nickie J. Antonio",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Nickie J. Antonio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hearcel F. Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Cutrona",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Cutrona\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William P. DeMora",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William P. DeMora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Theresa Gavarone",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Theresa Gavarone\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Koehler",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kyle Koehler\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Al Landis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Al Landis\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Beth Liston",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Beth Liston\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sandra O'Brien",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sandra O'Brien\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas F. Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Reineke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Reineke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tim Schaffer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Tim Schaffer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kent Smith",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kent Smith\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jane M. Timken",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jane M. Timken\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steve Wilson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Steve Wilson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -6,7 +6,9 @@
   "classification": [
     "resolution"
   ],
-  "subject": [],
+  "subject": [
+    "National or International Resolution"
+  ],
   "abstracts": [
     {
       "note": "long title",

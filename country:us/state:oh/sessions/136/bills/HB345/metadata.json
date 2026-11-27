@@ -145,6 +145,14 @@
       "organization_id": null
     },
     {
+      "name": "Adam Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam Mathews\"}",
+      "organization_id": null
+    },
+    {
       "name": "Kevin D. Miller",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -218,6 +226,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28988",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [

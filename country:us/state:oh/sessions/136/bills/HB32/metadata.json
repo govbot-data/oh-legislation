@@ -195,6 +195,14 @@
       "organization_id": null
     },
     {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
       "name": "Anita Somani",
       "classification": "cosponsor",
       "entity_type": "person",

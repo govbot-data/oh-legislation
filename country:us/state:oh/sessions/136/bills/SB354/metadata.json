@@ -133,6 +133,30 @@
       "primary": true,
       "person_id": "~{\"name\": \"Kristina D. Roegner\"}",
       "organization_id": null
+    },
+    {
+      "name": "Stephen A. Huffman",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Stephen A. Huffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mark Romanchuk",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Mark Romanchuk\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

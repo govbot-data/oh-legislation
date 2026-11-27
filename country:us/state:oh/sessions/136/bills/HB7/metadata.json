@@ -97,6 +97,22 @@
       "primary": true,
       "person_id": "~{\"name\": \"Sharon A. Ray\"}",
       "organization_id": null
+    },
+    {
+      "name": "Sarah Fowler Arthur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Crystal Lett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Crystal Lett\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

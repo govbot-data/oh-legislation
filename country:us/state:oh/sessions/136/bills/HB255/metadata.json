@@ -23,6 +23,10 @@
     {
       "note": "long title",
       "title": "To enact sections 122.123 and 122.124 of the Revised Code to create the Ohio Sports Council."
+    },
+    {
+      "note": "long title",
+      "title": "To enact sections 122.123 and 122.124 of the Revised Code to create the Ohio Sports Council."
     }
   ],
   "other_identifiers": [
@@ -76,6 +80,48 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Government Oversight and Reform Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Government Oversight and Reform Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -101,6 +147,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lauren McNally",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Lauren McNally\"}",
       "organization_id": null
     },
     {
@@ -159,9 +213,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28951",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -178,6 +258,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25363",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28940",
           "media_type": "application/pdf"
         }
       ],
@@ -242,6 +333,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb255/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -252,7 +347,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T19:53:53.344620Z"
   }
 }

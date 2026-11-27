@@ -164,10 +164,32 @@
       "classification": ""
     },
     {
+      "note": "Fiscal Notes: As Pending in House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29076",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Notes: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=25252",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Additional Documents: Sub Bill Comparative Synopsis",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29056",
           "media_type": "application/pdf"
         }
       ],

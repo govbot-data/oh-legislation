@@ -28,6 +28,10 @@
     {
       "note": "long title",
       "title": "To enact section 3767.52 of the Revised Code to create a complete defense to certain nuisance claims regarding racing facilities and racetracks."
+    },
+    {
+      "note": "long title",
+      "title": "To enact section 3767.52 of the Revised Code to create a complete defense to certain nuisance claims regarding racing facilities and racetracks."
     }
   ],
   "other_identifiers": [
@@ -123,6 +127,22 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Judiciary Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -140,6 +160,38 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Gary Click\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Abrams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Abrams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sean P. Brennan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sean P. Brennan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Angela N. King",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Angela N. King\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jean Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Jean Schmidt\"}",
       "organization_id": null
     }
   ],
@@ -184,6 +236,21 @@
         },
         {
           "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb639/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Re-Referred to the Senate Judiciary Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb639/03_RFS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb639/03_RFS/html/",
           "media_type": "text/html"
         }
       ],
@@ -276,6 +343,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb639/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb639/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -286,7 +357,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T22:12:41.441245Z"
   }
 }

@@ -7,7 +7,9 @@
     "bill"
   ],
   "subject": [
+    "Education",
     "Health and Human Services",
+    "Primary and Secondary Education",
     "Public Health",
     "Public Safety"
   ],
@@ -25,6 +27,14 @@
     {
       "note": "long title",
       "title": "To amend sections 755.13, 3313.717, 3314.16, and 3701.851 and to enact section 3701.852 of the Revised Code regarding staffing requirements in athletic facilities with staff trained in automated external defibrillation and cardiopulmonary resuscitation, placement of automated external defibrillators in school-related locations, and emergency action plans adopted by sports and recreation locations and schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 755.13, 3313.717, 3314.16, and 3701.851 and to enact section 3701.852 of the Revised Code regarding staffing requirements in athletic facilities with staff trained in automated external defibrillation and cardiopulmonary resuscitation, placement of automated external defibrillators in school-related locations, and emergency action plans adopted by sports and recreation locations and schools."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 3701.851 and to enact section 3701.852 of the Revised Code regarding athletic facility staff training requirements for automated external defibrillation."
     }
   ],
   "other_identifiers": [
@@ -78,6 +88,48 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Reported - Re-referred to Arts, Athletics, and Tourism",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Rules and Reference Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Rules and Reference Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Reported - Substitute",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Arts, Athletics, and Tourism Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Arts, Athletics, and Tourism Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -87,6 +139,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Jean Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Haraz N. Ghanbari",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Haraz N. Ghanbari\"}",
       "organization_id": null
     }
   ],
@@ -117,6 +177,29 @@
         {
           "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/01_RH/html/",
           "media_type": "text/html"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/03_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/03_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Re-Referred by the House Rules and Reference Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/02_RCH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/02_RCH/html/",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -124,6 +207,17 @@
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Re-reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29043",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -147,10 +241,10 @@
       "classification": ""
     },
     {
-      "note": "Fiscal Notes: As Reported By House Committee",
+      "note": "Fiscal Notes: As Re-reported By House Committee",
       "links": [
         {
-          "url": "https://www.legislature.ohio.gov//download?key=28250",
+          "url": "https://www.legislature.ohio.gov//download?key=29041",
           "media_type": "application/pdf"
         }
       ],
@@ -161,7 +255,33 @@
       "note": "Fiscal Notes: As Pending in House Committee",
       "links": [
         {
+          "url": "https://www.legislature.ohio.gov//download?key=29035",
+          "media_type": "application/pdf"
+        },
+        {
           "url": "https://www.legislature.ohio.gov//download?key=27594",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Re-referred By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28996",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28250",
           "media_type": "application/pdf"
         }
       ],
@@ -182,6 +302,10 @@
     {
       "note": "Additional Documents: Sub Bill Comparative Synopsis",
       "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29034",
+          "media_type": "application/pdf"
+        },
         {
           "url": "https://www.legislature.ohio.gov//download?key=27596",
           "media_type": "application/pdf"
@@ -204,6 +328,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb687/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -214,7 +346,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:25:20.791344Z"
   }
 }

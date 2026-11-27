@@ -23,6 +23,10 @@
     {
       "note": "long title",
       "title": "To enact section 9.89 of the Revised Code to limit further regulation of certain computational systems, require risk management policies for AI-controlled critical infrastructure, and to name this act the Ohio Right to Compute Act."
+    },
+    {
+      "note": "long title",
+      "title": "To enact section 9.89 of the Revised Code to limit further regulation of certain computational systems, require risk management policies for AI-controlled critical infrastructure, and to name this act the Ohio Right to Compute Act."
     }
   ],
   "other_identifiers": [
@@ -76,6 +80,32 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
       }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Reported - Re-referred to Technology and Innovation",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Rules and Reference Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Rules and Reference Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,6 +123,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Steve Demetriou\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ty D. Mathews",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Ty D. Mathews\"}",
       "organization_id": null
     }
   ],
@@ -122,6 +160,21 @@
         },
         {
           "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb392/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Re-Referred by the House Rules and Reference Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb392/02_RCH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb392/02_RCH/html/",
           "media_type": "text/html"
         }
       ],
@@ -188,6 +241,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb392/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb392/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -198,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-07-21T19:45:13.363513Z"
   }
 }

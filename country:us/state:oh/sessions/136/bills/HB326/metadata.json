@@ -151,6 +151,14 @@
       "organization_id": null
     },
     {
+      "name": "Adam C. Bird",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Adam C. Bird\"}",
+      "organization_id": null
+    },
+    {
       "name": "Gary Click",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -180,6 +188,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Tex Fischer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sarah Fowler Arthur",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Sarah Fowler Arthur\"}",
       "organization_id": null
     },
     {

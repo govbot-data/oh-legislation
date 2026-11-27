@@ -143,6 +143,14 @@
       "organization_id": null
     },
     {
+      "name": "Cindy Abrams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Abrams\"}",
+      "organization_id": null
+    },
+    {
       "name": "Rodney Creech",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -191,6 +199,14 @@
       "organization_id": null
     },
     {
+      "name": "Kevin D. Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "organization_id": null
+    },
+    {
       "name": "Justin Pizzulli",
       "classification": "cosponsor",
       "entity_type": "person",
@@ -236,6 +252,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],

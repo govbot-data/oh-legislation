@@ -20,6 +20,14 @@
     {
       "note": "long title",
       "title": "To amend section 3905.33 and to enact section 3905.333 of the Revised Code regarding surplus lines insurers."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 3905.33 and to enact section 3905.333 of the Revised Code regarding surplus lines insurers."
+    },
+    {
+      "note": "long title",
+      "title": "To amend section 3905.33 and to enact section 3905.333 of the Revised Code regarding surplus lines insurers."
     }
   ],
   "other_identifiers": [
@@ -57,6 +65,46 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
       }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Insurance Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Insurance Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -93,14 +141,66 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Insurance Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29065",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=27974",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29045",
           "media_type": "application/pdf"
         }
       ],
@@ -128,6 +228,14 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb792/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -138,7 +246,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-07-21T19:54:10.004022Z"
   }
 }

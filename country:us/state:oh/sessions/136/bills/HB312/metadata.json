@@ -22,6 +22,10 @@
     {
       "note": "long title",
       "title": "To enact section 5.037 of the Revised Code to designate the walleye as the official fish of the state."
+    },
+    {
+      "note": "long title",
+      "title": "To enact section 5.037 of the Revised Code to designate the walleye as the official fish of the state."
     }
   ],
   "other_identifiers": [
@@ -58,6 +62,22 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
+      }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Arts, Athletics, and Tourism Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Arts, Athletics, and Tourism Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -479,9 +499,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Arts, Athletics, and Tourism Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb312/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb312/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29096",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Introduced",
       "links": [
@@ -514,6 +560,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb312/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb312/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -524,7 +574,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:21Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T20:10:32.898992Z"
   }
 }

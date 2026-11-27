@@ -20,6 +20,10 @@
     {
       "note": "long title",
       "title": "To encourage all county boards of developmental disabilities in Ohio to adopt an advisory board composed of self-advocates with developmental disabilities."
+    },
+    {
+      "note": "long title",
+      "title": "To encourage all county boards of developmental disabilities in Ohio to adopt an advisory board composed of self-advocates with developmental disabilities."
     }
   ],
   "other_identifiers": [
@@ -45,6 +49,22 @@
       ],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
+      }
+    },
+    {
+      "description": "Reported",
+      "date": "2026-11-17T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Children and Human Services Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Children and Human Services Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
       }
     }
   ],
@@ -170,6 +190,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Reported by the House Children and Human Services Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr44/01_RH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr44/01_RH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -177,6 +212,10 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hcr44",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hcr44/",
       "note": ""
     },
     {
@@ -192,7 +231,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T21:58:34.632882Z"
   }
 }

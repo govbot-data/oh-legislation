@@ -117,6 +117,14 @@
       "primary": true,
       "person_id": "~{\"name\": \"Brian Stewart\"}",
       "organization_id": null
+    },
+    {
+      "name": "Josh Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Josh Williams\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

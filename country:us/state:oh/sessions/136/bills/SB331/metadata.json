@@ -161,6 +161,14 @@
       "primary": false,
       "person_id": "~{\"name\": \"Jerry C. Cirino\"}",
       "organization_id": null
+    },
+    {
+      "name": "Catherine D. Ingram",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Catherine D. Ingram\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

@@ -28,6 +28,10 @@
     {
       "note": "long title",
       "title": "To amend sections 4508.02, 4511.20, 4511.21, 4511.98, and 5501.27 of the Revised Code regarding traffic offenses in construction zones and to name this act the Trenton Gallaway Work Zone Safety Act."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4508.02, 4511.20, 4511.21, 4511.98, and 5501.27 of the Revised Code regarding traffic offenses in construction zones and to name this act the Trenton Gallaway Work Zone Safety Act."
     }
   ],
   "other_identifiers": [
@@ -81,6 +85,48 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-16T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
+    },
+    {
+      "description": "Referred to committee",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Senate Judiciary Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"Senate Judiciary Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:54Z"
+      }
     }
   ],
   "sponsorships": [
@@ -98,6 +144,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"Mark Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Abrams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Cindy Abrams\"}",
       "organization_id": null
     },
     {
@@ -130,6 +184,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Marilyn John\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bernard Willis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bernard Willis\"}",
       "organization_id": null
     }
   ],
@@ -164,9 +226,35 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/02_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/02_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
+    {
+      "note": "Analysis: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28984",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
     {
       "note": "Analysis: As Reported By House Committee",
       "links": [
@@ -183,6 +271,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=24809",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28942",
           "media_type": "application/pdf"
         }
       ],
@@ -236,6 +335,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb82/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -246,7 +349,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:54Z",
     "text_extraction_latest_update": "2026-07-21T22:12:27.032582Z"
   }
 }

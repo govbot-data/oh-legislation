@@ -34,6 +34,10 @@
     {
       "note": "long title",
       "title": "To amend sections 4507.05, 4507.071, 4507.21, and 4508.02 and to enact section 4508.041 of the Revised Code to make changes to driver education requirements, including for limited term license applicants."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 4507.05, 4507.071, 4507.21, and 4508.02 and to enact section 4508.041 of the Revised Code to make changes to driver education requirements, including for limited term license applicants."
     }
   ],
   "other_identifiers": [
@@ -135,6 +139,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:19Z"
       }
+    },
+    {
+      "description": "Passed",
+      "date": "2026-11-18T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2026-11-24T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -176,6 +204,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"name\": \"Kevin D. Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Elgin Rogers, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Elgin Rogers, Jr.\"}",
       "organization_id": null
     },
     {
@@ -249,14 +285,29 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Passed by the House",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb463/04_PH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb463/04_PH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
     {
-      "note": "Analysis: As Re-reported By House Committee",
+      "note": "Analysis: As Passed By House",
       "links": [
         {
-          "url": "https://www.legislature.ohio.gov//download?key=28476",
+          "url": "https://www.legislature.ohio.gov//download?key=29118",
           "media_type": "application/pdf"
         }
       ],
@@ -268,6 +319,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=28358",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Analysis: As Re-reported By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=28476",
           "media_type": "application/pdf"
         }
       ],
@@ -290,6 +352,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26188",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Passed By House",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29089",
           "media_type": "application/pdf"
         }
       ],
@@ -384,6 +457,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb463/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb463/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -394,7 +471,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T19:41:39.150046Z"
   }
 }

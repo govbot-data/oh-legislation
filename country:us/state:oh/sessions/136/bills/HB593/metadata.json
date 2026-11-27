@@ -142,6 +142,22 @@
       "primary": false,
       "person_id": "~{\"name\": \"Meredith Craig\"}",
       "organization_id": null
+    },
+    {
+      "name": "Derrick Hall",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Derrick Hall\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Lampton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Lampton\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],

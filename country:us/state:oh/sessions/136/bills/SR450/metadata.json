@@ -17,6 +17,10 @@
     {
       "note": "long title",
       "title": "Honoring Matthew Dietrich on his retirement from the Ohio Rail Development Commission."
+    },
+    {
+      "note": "long title",
+      "title": "Honoring Matthew Dietrich on his retirement from the Ohio Rail Development Commission."
     }
   ],
   "other_identifiers": [
@@ -200,6 +204,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Adopted by the Senate",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr450/01_AS/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr450/01_AS/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [],
@@ -207,6 +226,10 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/sr450",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sr450/",
       "note": ""
     },
     {

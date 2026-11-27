@@ -17,6 +17,10 @@
     {
       "note": "long title",
       "title": "Honoring Abigail Mozden on securing the 2025 Girls Wrestling State Championship in the 135-pound weight class."
+    },
+    {
+      "note": "long title",
+      "title": "Honoring Abigail Mozden on securing the 2025 Girls Wrestling State Championship in the 135-pound weight class."
     }
   ],
   "other_identifiers": [
@@ -57,6 +61,21 @@
   "related_bills": [],
   "versions": [
     {
+      "note": "As Offered",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hr97/00_IN/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hr97/00_IN/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "As Adopted by the House",
       "links": [
         {
@@ -77,6 +96,10 @@
   "sources": [
     {
       "url": "https://www.legislature.ohio.gov/legislation/136/hr97",
+      "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hr97/",
       "note": ""
     },
     {

@@ -37,6 +37,10 @@
     {
       "note": "long title",
       "title": "To amend sections 1345.02, 3901.046, 3905.01, 3906.01, 3906.08, 3907.14, 3925.08, 3964.03, 3964.194, 4509.70, 4513.70, and 4513.71 and to enact sections 1345.82 and 3905.0612 of the Revised Code regarding changes to Ohio insurance laws and certain towed vehicles and repair shop activities."
+    },
+    {
+      "note": "long title",
+      "title": "To amend sections 1345.02, 3901.046, 3905.01, 3906.01, 3906.08, 3907.14, 3925.08, 3964.03, 3964.194, 4509.70, 4513.70, and 4513.71 and to enact sections 1345.82 and 3905.0612 of the Revised Code regarding changes to Ohio insurance laws and certain towed vehicles and repair shop activities."
     }
   ],
   "other_identifiers": [
@@ -148,6 +152,32 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:21Z"
       }
+    },
+    {
+      "description": "Re-referred",
+      "date": "2026-11-09T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
+    },
+    {
+      "description": "Reported - Re-referred to Insurance",
+      "date": "2026-11-10T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "House Rules and Reference Committee",
+          "entity_type": "organization",
+          "organization_id": "~{\"name\": \"House Rules and Reference Committee\"}"
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-11-27T20:08:55Z"
+      }
     }
   ],
   "sponsorships": [
@@ -157,6 +187,70 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"name\": \"George F. Lang\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Meredith Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Meredith Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brian Lampton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Brian Lampton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Hearcel F. Craig",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Hearcel F. Craig\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William P. DeMora",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"William P. DeMora\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paula Hicks-Hudson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Paula Hicks-Hudson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Terry Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Terry Johnson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Thomas F. Patton",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Thomas F. Patton\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Bill Reineke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"Bill Reineke\"}",
       "organization_id": null
     }
   ],
@@ -221,6 +315,21 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "As Re-Referred by the House Rules and Reference Committee",
+      "links": [
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb306/04_RCH/pdf/",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb306/04_RCH/html/",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -262,6 +371,17 @@
       "links": [
         {
           "url": "https://www.legislature.ohio.gov//download?key=26440",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Fiscal Notes: As Re-referred By House Committee",
+      "links": [
+        {
+          "url": "https://www.legislature.ohio.gov//download?key=29000",
           "media_type": "application/pdf"
         }
       ],
@@ -378,6 +498,10 @@
     {
       "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb306/",
       "note": ""
+    },
+    {
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb306/",
+      "note": ""
     }
   ],
   "extras": {},
@@ -388,7 +512,7 @@
     "division_id": "ocd-division/country:us/state:oh"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:22Z",
+    "logs_latest_update": "2026-11-27T20:08:55Z",
     "text_extraction_latest_update": "2026-07-21T20:21:19.747455Z"
   }
 }
